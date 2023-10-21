@@ -83,10 +83,8 @@ author:
   name             : "Jun Yang"
   avatar           : "JunYang.png"
   bio              : "Reader in Autonomous and Electric Vehicles"
-  location: |
-    Loughborough Leicestershire
-    Loughborough University
-  employer         :
+  location         : "Loughborough, Leicestershire"
+  employer         : "Loughborough University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LWK-N8YAAAAJ&hl=zh-CN&oi=ao"
   email            : "J.Yang3@lboro.ac.uk"
