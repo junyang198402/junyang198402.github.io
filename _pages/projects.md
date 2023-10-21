@@ -30,7 +30,7 @@ collection: projects
 20.	Disturbance rejection control of AC servo systems. Jiangsu Postdoctoral Research Funding Program. 09/2013-03/2015. ¥50k (approximately £6k). PI.
 
 
-## ***&#9679; Major grants as Co-Investigator***
+## ***&#9679; Major Grants as Co-Investigator***
 
 21.	Direct drive intelligent servo theory and integration technology for ultra-precision manufacturing equipment. Major Research Project of Natural Science Foundation of Shandong Province, China. 08/2019-07/2024. ¥4m (approximately £470k). Co-I (PI at SEU).
 22.	Tropical weather forecast. National Key Research and Design Program Topics, China. 12/2018-12/2021. ¥2.91m (approximately £342k). Co-I.
