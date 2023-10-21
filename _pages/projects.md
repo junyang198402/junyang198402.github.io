@@ -4,7 +4,8 @@ title: "Projects"
 collection: projects
 ---
 
-- type: "此处输入项目类型"
+- title: "此处填写项目名称"
+  type: "此处输入项目类型"
   funder: "此处输入基金或经费提供者"
   date: 2022-10-20
   enddate: 2022-10-21
