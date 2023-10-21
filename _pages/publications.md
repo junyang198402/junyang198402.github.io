@@ -27,7 +27,6 @@ redirect_from:
 [15]	X. Liu, J. Yang, and P. Qiao, “Gain function-based visual tracking control for inertial stabilized platform with output constraints and disturbances,” Electronics, vol. 11, no. 7, pp. 1137, 2022.
 [16]	S. Shi, X. Wang, S. Li, and J. Yang, “Prescribed-time second-order sliding mode controller design subject to mismatched term,” IEEE Transactions on Circuits and Systems II: Express Briefs, 2022. doI: 10.1109/TCSII.2022.3227053.
 [17]	J. Sun, X. Liu, J. Yang, Z. Zeng, and S. Li, “Predictor-based extended state observer for dis- turbance rejection control of multirate systems with measurement delay,” IEEE Transactions on Industrial Electronics, vol. 70, no. 3, pp. 3003–3012, 2022.
- 
 [18]	J. Sun, J. Yang, and Z. Zeng, “Predictor-based periodic event-triggered control for nonlinear uncertain systems with input delay,” Automatica, vol. 136, pp. 110055, 2022.
 [19]	J. Sun, J. Yang, Z. Zeng, and H. Wang, “Sampled-data output feedback control for nonlinear uncertain systems using predictor-based continuous-discrete observer,” IEEE Transactions on Neural Networks and Learning Systems, 2022. doI: 10.1109/TNNLS.2022.3157649.
 [20]	J. Wang, J. Rong, and J. Yang, “Adaptive fixed-time position precision control for magnetic levitation systems,” IEEE Transactions on Automation Science and Engineering, vol. 20, no. 1, pp. 458–469, 2022.
@@ -48,7 +47,6 @@ redirect_from:
 [35]	C. Zhang and J. Yang, “Nonsmooth adaptive control for uncertain nonlinear systems: A non- recursive design approach,” IEEE Control Systems Letters, vol. 6, pp. 229–234, 2021.
 [36]	L. Zhang, J. Yang, and S. Li, “A model-based unmatched disturbance rejection control approach for speed regulation of a converter-driven DC motor using output-feedback,” IEEE/CAA Journal of Automatica Sinica, vol. 9, no. 2, pp. 365–376, 2021.
 [37]	W. Bu, T. Li, J. Yang, and Y. Yi, “Disturbance observer–based event-triggered tracking control of networked robot manipulator,” Measurement and Control, vol. 53, no. 5-6, pp. 892–898, 2020.
- 
 [38]	C. Dai, T. Guo, J. Yang, and S. Li, “A disturbance observer-based current-constrained controller for speed regulation of PMSM systems subject to unmatched disturbances,” IEEE Transactions on Industrial Electronics, vol. 68, no. 1, pp. 767–775, 2020.
 [39]	C. Jiang, J. Yang, S. Li, M. Zhou, and K. Yang, “Friction-compensation and extended state observer based model predictive control for PMSM servo systems,” IEEJ Journal of Industry Applications, vol. 9, no. 4, pp. 351–357, 2020.
 [40]	Q. Lan, S. Li, and J. Yang, “Finite-time tracking control for a class of nonlinear systems with mul- tiple mismatched disturbances,” International Journal of Robust and Nonlinear Control, vol. 30, no. 10, pp. 4095–4111, 2020.
@@ -68,7 +66,6 @@ redirect_from:
 [54]	X. Yu, J. Yang, and S. Li, “Disturbance observer-based autonomous landing control of unmanned helicopters on moving shipboard,” Nonlinear Dynamics, vol. 102, pp. 131–150, 2020.
 [55]	X. Yu, J. Yang, and S. Li, “Finite-time path following control for small-scale fixed-wing UAVs under wind disturbances,” Journal of the Franklin Institute, vol. 357, no. 12, pp. 7879–7903, 2020.
 [56]	L. Zhang, J. Yang, S. Li, and X. Yu, “Invariant manifold based output-feedback sliding mode control for systems with mismatched disturbances,” IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 68, no. 3, pp. 933–937, 2020.
- 
 [57]	Z. Zhao, D. Cao, J. Yang, and H. Wang, “High-order sliding mode observer-based trajectory tracking control for a quadrotor UAV with uncertain dynamics,” Nonlinear Dynamics, vol. 102, pp. 2583–2596, 2020.
 [58]	T. Li, J. Yang, C. Wen, and C. Zhang, “Global adaptive finite-time stabilization of uncertain time-varying p-normal nonlinear systems without homogeneous growth nonlinearity restriction,” IEEE Transactions on Automatic Control, vol. 64, no. 11, pp. 4637–4644, 2019.
 [59]	R. Madonski, M. Ramirez-Neria, M. Stanković, S. Shao, Z. Gao, J. Yang, and S. Li, “On vibration suppression and trajectory tracking in largely uncertain torsional system: An error-based ADRC approach,” Mechanical Systems and Signal Processing, vol. 134, pp. 106300, 2019.
@@ -87,7 +84,6 @@ redirect_from:
 [72]	B. Fu, S. Li, J. Yang, and L. Guo, “Global output regulation for a class of single input port- controlled hamiltonian disturbed systems,” Applied Mathematics and Computation, vol. 325, pp. 322–331, 2018.
 [73]	W. He, S. Li, J. Yang, and Z. Wang, “Incremental passivity based control for DC-DC boost con- verters under time-varying disturbances via a generalized proportional integral observer,” Journal of Power Electronics, vol. 18, no. 1, pp. 147–159, 2018.
 [74]	Y. Liao, J. You, J. Yang, Z. Wang, and L. Jin, “Disturbance-observer-based model predictive control for battery energy storage system modular multilevel converters,” Energies, vol. 11, no. 9, pp. 2285, 2018.
- 
 [75]	J. Mao, J. Yang, S. Li, Y. Yan, and Q. Li, “Output feedback-based sliding mode control for disturbed motion control systems via a higher-order ESO approach,” IET Control Theory & Applications, vol. 12, no. 15, pp. 2118–2126, 2018.
 [76]	Z. Su, G. Zhao, J. Yang, and Y. Li, “Disturbance rejection of nonlinear boiler–turbine unit us- ing high-order sliding mode observer,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 50, no. 12, pp. 5432–5443, 2018.
 [77]	J. Sun, J. Yang, S. Li, and W. X. Zheng, “Output-based dynamic event-triggered mechanisms for disturbance rejection control of networked nonlinear systems,” IEEE Transactions on Cybernetics, vol. 50, no. 5, pp. 1978–1988, 2018.
@@ -107,7 +103,6 @@ Journal of Electrical & Electronic Education (Chinese), vol. 40, no. 2, pp. 53�
 [90]	Z. Zhao, J. Yang, C. Liu, and W.-H. Chen, “Nonlinear composite bilateral control framework for n-DOF teleoperation systems with disturbances,” Science China Information Sciences, vol. 61, pp. 1–18, 2018.
 [91]	C. Dai, J. Yang, Z. Wang, and S. Li, “Universal active disturbance rejection control for non-linear systems with multiple disturbances via a high-order sliding mode observer,” IET Control Theory & Applications, vol. 11, no. 8, pp. 1194–1204, 2017.
 [92]	D. Niu, X. Chen, J. Yang, and X. Zhou, “Disturbance rejection control for raymond mill grind- ing system based on disturbance observer,” Journal of Central South University, vol. 24, no. 9, pp. 2019–2027, 2017.
- 
 [93]	J. Sun, J. Yang, S. Li, and W. X. Zheng, “Sampled-data-based event-triggered active distur- bance rejection control for disturbed systems in networked environment,” IEEE Transactions on Cybernetics, vol. 49, no. 2, pp. 556–566, 2017.
 [94]	C. Wang, Z. Zuo, J. Sun, J. Yang, and Z. Ding, “Consensus disturbance rejection for lipschitz nonlinear multi-agent systems with input delay: A DOBC approach,” Journal of the Franklin Institute, vol. 354, no. 1, pp. 298–315, 2017.
 [95]	J. Yang, W.-H. Chen, S. Li, L. Guo, and Y. Yan, “Disturbance/uncertainty estimation and at- tenuation techniques in PMSM drives—a survey,” IEEE Transactions on Industrial Electronics, vol. 64, no. 4, pp. 3273–3285, 2017.
@@ -126,7 +121,6 @@ Journal of Electrical & Electronic Education (Chinese), vol. 40, no. 2, pp. 53�
 [108]	D. Niu, X. Chen, J. Yang, X. Wang, and X. Zhou, “Composite control for raymond mill based on model predictive control and disturbance observer,” Advances in Mechanical Engineering, vol. 8, no. 3, pp. 1–10, 2016.
 [109]	D. Niu, X. Chen, J. Yang, and X. Zhou, “Composite control for coagulation process with time delay and disturbances,” Journal of Southeast University (Chinese), vol. 32, no. 3, pp. 285–292, 2016.
 [110]	J. Su, W.-H. Chen, and J. Yang, “On relationship between time-domain and frequency-domain disturbance observers and its applications,” Journal of Dynamic Systems, Measurement, and Con- trol, vol. 138, no. 9, pp. 091013, 2016.
- 
 [111]	J. Su, B. Li, W.-H. Chen, and J. Yang, “Reduced-order disturbance observer design for discrete- time linear stochastic systems,” Transactions of the Institute of Measurement and Control, vol. 38, no. 6, pp. 657–664, 2016.
 [112]	J. Sun, J. Yang, W. X. Zheng, and S. Li, “GPIO-based robust control of nonlinear uncertain sys- tems under time-varying disturbance with application to DC–DC converter,” IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 63, no. 11, pp. 1074–1078, 2016.
 [113]	H. Wang, S. Li, J. Yang, and X. Zhou, “Continuous sliding mode control for permanent magnet synchronous motor speed regulation systems under time-varying disturbances,” Journal of Power Electronics, vol. 16, no. 4, pp. 1324–1335, 2016.
@@ -146,7 +140,6 @@ Journal of Electrical & Electronic Education (Chinese), vol. 40, no. 2, pp. 53�
 [127]	J. Yang, W. Zheng, S. Li, B. Wu, and M. Cheng, “Design of a prediction accuracy enhanced continuous-time MPC for disturbed systems via a disturbance observer,” IEEE Transactions on Industrial Electronics, vol. 62, no. 9, pp. 5807–5816, 2015.
 [128]	Z. Zhao, Y. Jun, S. Li, and L. Guo, “Drag-based nonlinear predictive guidance law for mars entry,”
 Journal of Deep Space Exploration (Chinese), vol. 2, no. 2, pp. 137–143, 2015.
- 
 [129]	Z. Zhao, J. Yang, S. Li, Z. Zhang, and L. Guo, “Finite-time super-twisting sliding mode control for mars entry trajectory tracking,” Journal of the Franklin Institute, vol. 352, no. 11, pp. 5226–5248, 2015.
 [130]	Q. Lan, S. Li, J. Yang, and L. Guo, “Finite-time control for soft landing on an asteroid based on line-of-sight angle,” Journal of the Franklin Institute, vol. 351, no. 1, pp. 383–398, 2014.
 [131]	Q. Lan, S. Li, J. Yang, and L. Guo, “Finite-time soft landing on asteroids using nonsingular terminal sliding mode control,” Transactions of the Institute of Measurement and Control, vol. 36, no. 2, pp. 216–223, 2014.
@@ -169,7 +162,6 @@ IEEE Transactions on Aerospace and Electronic Systems, vol. 49, no. 1, pp. 558�
 [146]	J. Yang, S. Li, J. Su, and X. Yu, “Continuous nonsingular terminal sliding mode control for systems with mismatched disturbances,” Automatica, vol. 49, no. 7, pp. 2287–2291, 2013.
 [147]	J. Yang, S. Li, C. Sun, and L. Guo, “Nonlinear-disturbance-observer-based robust flight control for airbreathing hypersonic vehicles,” IEEE Transactions on Aerospace and Electronic Systems, vol. 49, no. 2, pp. 1263–1275, 2013.
 [148]	J. Yang, S. Li, and X. Yu, “Sliding-mode control for systems with mismatched uncertainties via a disturbance observer,” IEEE Transactions on Industrial Electronics, vol. 60, no. 1, pp. 160–169, 2013.
- 
 [149]	J. Yang and W. Zheng, “Offset-free nonlinear MPC for mismatched disturbance attenuation with application to a static var compensator,” IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 61, no. 1, pp. 49–53, 2013.
 [150]	S. Li, J. Yang, W.-H. Chen, and X. Chen, “Generalized extended state observer based control for systems with mismatched uncertainties,” IEEE Transactions on Industrial Electronics, vol. 59, no. 12, pp. 4792–4802, 2012.
 [151]	J. Yang, W.-H. Chen, and S. Li, “Robust autopilot design of uncertain bank-to-turn missiles using state-space disturbance observers,” Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering, vol. 226, no. 1, pp. 97–107, 2012.
@@ -188,7 +180,6 @@ IEEE Transactions on Aerospace and Electronic Systems, vol. 49, no. 1, pp. 558�
 [163]	J. Liu, J. Yang, and S. Li, “Single-loop robust predictive speed control of PMSM system with overcurrent protection: A disturbance preview approach,” in 2021 IEEE International Confer- ence on Predictive Control of Electrical Drives and Power Electronics (PRECEDE), IEEE, 2021, pp. 645–650.
 [164]	Z. Tao, J. Yang, S. Li, and C. Chen, “On disturbance rejection for gimbal servo system of flexible mounting control moment gyroscope,” in 2021 40th Chinese Control Conference (CCC), IEEE, 2021, pp. 2842–2847.
 [165]	H. Yang, Y. Liu, J. Wang, and J. Yang, “Improved multi-step FCS-MPCC with disturbance compensation for PMSM drives,” in 2021 IEEE International Conference on Predictive Control of Electrical Drives and Power Electronics (PRECEDE), 2021, pp. 530–535.
- 
 [166]	Z. Feng, J. Yang, and E. Shao, “Anti-sway control of underactuated cranes using linear quadratic regulator and extended state observer techniques,” in 2020 Chinese Control And Decision Con- ference (CCDC), IEEE, 2020, pp. 2893–2898.
 [167]	R. Madonski, K. Łakomy, and J. Yang, “Comparative study of output-based and error-based ADRC schemes in application to buck converter-fed DC motor system,” in 2020 59th IEEE Con- ference on Decision and Control (CDC), IEEE, 2020, pp. 2744–2749.
 [168]	E. Shao, C. Chen, J. Yang, and Z. Feng, “Correctional deflection control of rubber tire gantry: A direction switch strategy,” in 2020 39th Chinese Control Conference (CCC), IEEE, 2020, pp. 2551– 2555.
@@ -207,7 +198,6 @@ IEEE Transactions on Aerospace and Electronic Systems, vol. 49, no. 1, pp. 558�
 [181]	C. Zhang, J. Yang, and C. Wen, “Global exact tracking for nonlinear systems: A novel non- recursive design framework,” in 2017 12th IEEE Conference on Industrial Electronics and Appli- cations (ICIEA), IEEE, 2017, pp. 1546–1551.
 [182]	L. Zhang, J. Yang, S. Li, T. Li, and C. Man, “Sliding mode control for a class of second-order nonlinear systems with unmatched disturbances,” in 2017 13th IEEE International Conference on Control & Automation (ICCA), IEEE, 2017, pp. 34–39.
 [183]	Z. Zhao, J. Yang, S. Li, and C. Man, “Continuous terminal sliding mode guidance law with consid- eration of autopilot dynamics,” in IECON 2017-43rd Annual Conference of the IEEE Industrial Electronics Society, IEEE, 2017, pp. 6071–6076.
- 
 [184]	W. Chen and J. Yang, “A double loop optimization method for gasoline online blending,” in 2016 IEEE International Conference on Industrial Technology (ICIT), IEEE, 2016, pp. 622–627.
 [185]	X. Chen, M. Du, and J. Yang, “A compound rapid assay method for crude oil properties based on similarity discrimination and partial least squares,” in 2016 35th Chinese Control Conference (CCC), IEEE, 2016, pp. 2029–2033.
 [186]	C. Dai, J. Yang, Z. Wang, and S. Li, “An enhanced disturbance observer based control for DC-AC inverters using high-order sliding mode,” in 2016 35th Chinese Control Conference (CCC), IEEE, 2016, pp. 8601–8606.
@@ -226,7 +216,6 @@ IEEE Transactions on Aerospace and Electronic Systems, vol. 49, no. 1, pp. 558�
 [199]	W. Chao, L. Shihua, Y. Jun, and G. Lei, “Disturbance observer based constrained multi-model predictive control for mars entry trajectory tracking,” in Proceedings of 2014 IEEE Chinese Guid- ance, Navigation and Control Conference, IEEE, 2014, pp. 2341–2346.
 [200]	X. Chen, J. Yang, S. Li, and J. Zhai, “The new challenges on advanced process control raised by large-scale grinding equipment,” in Proceeding of the 11th World Congress on Intelligent Control and Automation, IEEE, 2014, pp. 760–765.
 [201]	X. Cheng, J. Yang, J. Li, and G. Liu, “Design and application of automatic crude oil blending for refinery plants,” in Proceedings of the 33rd Chinese Control Conference, IEEE, 2014, pp. 2913– 2917.
- 
 [202]	H. Cui, J. Yang, and S. Li, “Nonlinear disturbance rejection control for a buck-boost converter with load uncertainties,” in Proceedings of the 33rd Chinese Control Conference, IEEE, 2014, pp. 3788–3793.
 [203]	J. Sun, S. Li, and J. Yang, “Iterative learning control with extended state observer for iteration- varying disturbance rejection,” in Proceeding of the 11th world congress on intelligent control and automation, IEEE, 2014, pp. 1148–1153.
 [204]	B. Wu, J. Yang, J. Wang, and S. Li, “Extended state observer based control for DC-DC buck converters subject to mismatched disturbances,” in Proceedings of the 33rd Chinese control con- ference, IEEE, 2014, pp. 8080–8085.
@@ -245,7 +234,6 @@ IEEE Transactions on Aerospace and Electronic Systems, vol. 49, no. 1, pp. 558�
 [217]	X. Chen, J. Yang, C. Guo, and H. Wang, “Disturbance observer enhanced model predictive control with experimental studies,” in 2011 Second International Conference on Mechanic Automation and Control Engineering, IEEE, 2011, pp. 215–218.
 [218]	J. Li, J. Yang, S. Li, and X. Chen, “Design of neural network disturbance observer using RBFN for complex nonlinear systems,” in Proceedings of the 30th Chinese control conference, IEEE, 2011, pp. 6187–6192.
 [219]	J. Yang, W.-H. Chen, S. Li, and X. Chen, “Nonlinear disturbance observer based control for systems with arbitrary disturbance relative degree,” in Proceedings of the 30th Chinese Control Conference, IEEE, 2011, pp. 6170–6175.
- 
 [220]	X. Chen, J. Yang, S. Li, and Q. Li, “An improved control strategy for ball mill grinding circuits,” in Life System Modeling and Intelligent Computing, Springer, 2010, pp. 409–415.
 [221]	J. Yang, W.-H. Chen, and S. Li, “Autopilot design of bank-to-turn missiles using state-space disturbance observers,” in UKACC International Conference on CONTROL 2010, IET Digital Library, 2010, pp. 1218–1223.
 [222]	J. Yang, A. Zolotas, W.-H. Chen, K. Michail, and S. Li, “Disturbance observer based control for nonlinear MAGLEV suspension system,” in 2010 Conference on Control and Fault-Tolerant Systems (SysTol), IEEE, 2010, pp. 281–286.
@@ -254,11 +242,10 @@ IEEE Transactions on Aerospace and Electronic Systems, vol. 49, no. 1, pp. 558�
 
 - ***Book Publications***
 
-  - C. Zhang and J. Yang, Nonrecursive Control Design for Nonlinear Systems: Theory and Applica- tions. CRC Press, 2023.
 
-  - S. Li, X. Wang, S. Ding, H. Du, J. Yang, and X. Yu, Sliding-Mode Control Theory and Applications (Chinese). Science Press (China), 2022.
+[223]	C. Zhang and J. Yang, Nonrecursive Control Design for Nonlinear Systems: Theory and Applica- tions. CRC Press, 2023.
+[224]	S. Li, X. Wang, S. Ding, H. Du, J. Yang, and X. Yu, Sliding-Mode Control Theory and Applications (Chinese). Science Press (China), 2022.
+[225]	X. Chen, M. Wang, and J. Yang, Process Control System (Chinese). Science Press (China), 2014.
+[226]	S. Li, J. Yang, W.-H. Chen, and X. Chen, Disturbance Observer-Based Control: Methods and Applications. CRC press, 2014.
 
-  - X. Chen, M. Wang, and J. Yang, Process Control System (Chinese). Science Press (China), 2014.
-
-  - S. Li, J. Yang, W.-H. Chen, and X. Chen, Disturbance Observer-Based Control: Methods and Applications. CRC press, 2014.
 
