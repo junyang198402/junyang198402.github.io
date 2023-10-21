@@ -30,7 +30,7 @@ collection: awards
   - Most Cited Automatica Articles, Elsevier / Netherlands, 2012 - 2017.
 
 
- ## ***&#9679; Other Academic Awards***
+## ***&#9679; Other Academic Awards***
 
  
   - Science and Technology Progress Award of Jiangsu Province, Chinese government / China, 2018.
