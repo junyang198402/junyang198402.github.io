@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Welcome to my personal website"
+title: "Welcome to Jun's personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
 
 # Dr Jun Yang
 FIET, SMIEEE, PhD, BEng
