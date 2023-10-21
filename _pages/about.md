@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,8 +10,6 @@ redirect_from:
 
 # Dr Jun Yang
 FIET, SMIEEE, PhD, BEng
-
-**Reader in Autonomous and Electric Vehicles**
 
 
 ## Background:
