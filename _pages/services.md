@@ -7,21 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Editorial services
-* Associate Editor / Editorial Board
-  * IEEE Robotics & Automation Magazine (2023-2025)
-  * IEEE Robotics & Automation Letters (2022-2024)
-  * IET Cyber-Systems and Robotics
-  * Frontiers in Remote Sensing
-  * Drones and Autonomous Vehicles
-* Conference Committee
-  * Program Chair: The 9th IEEE Smart World Congress 2023, IEEE ICAC'24
-  * Conference AE: IEEE ICCA 2019, ICUAS'19, ICUAS'20
-  * Technical Program Committee: ROBOT2022, IEEE ICIT2024
-
-## Grant review 
-* EPSRC peer-review college 
-
-## Administrative services
-* Member of University Dynamic Working Focus Group (2021-2022)
-* Academic probation advisor (2022-present)
+* Associate Editor of Transactions of the Institute of Measurement and Control,  2016-now.
+* Program Chair/Track Chair/IPC Member of many international conferences such as IEEE IECON, IEEE ICIT, IEEE ICIEA, IEEE CCDC, IEEE RCAR, ICONIP, IEEE-CYBER, IEEE ADRC Workshop, et al.
+* Invited talks on disturbance rejection control theories with applications to flight control systems and mechatronic systems at The University of Manchester (UK), Nanyang Technology University (Singapore), RMIT University (Australia), Strathclyde University (UK), Loughborough University (UK), Nanjing University of Science and Technology (China), etc.
+* Active Reviewers for more than 10 international journals including Automatica, IEEE Trans. on Automatic Control, IEEE Trans. on Control Systems Technology, IEEE Trans. On Aerospace and Electronics Systems, IEEE Trans. on Industrial Electronics, IEEE/ASME Trans. on Mechatronics, IET Control Theory and Applications, International Journal of Robust and Nonlinear Control, International Journal of Control, et al.
