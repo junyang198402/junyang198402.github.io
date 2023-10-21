@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-***Postdoc Researchers***
+&#9679; ***Postdoc Researchers***
 ======
 
 <center>
@@ -32,7 +32,7 @@ redirect_from:
     <li><a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a></li>
 </center>
 
-***Current PhD Students***
+&#9679; ***Current PhD Students***
 ======
 
 <center>
@@ -148,7 +148,7 @@ redirect_from:
     <li><a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a></li>
 </center>
 
-***Alumni***
+&#9679; ***Alumni***
 ======
 
 <center>
