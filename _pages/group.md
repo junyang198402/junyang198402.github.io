@@ -29,7 +29,7 @@ redirect_from:
 </center>
 
 <center>
-    <li><a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a></li>
+    <a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a>
 </center>
 
 &#9679; ***Current PhD Students***
@@ -53,7 +53,7 @@ redirect_from:
 </center>
 
 <center>
-    <li><a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a></li>
+    <a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a>
 </center>
 
 <br>
@@ -76,7 +76,7 @@ redirect_from:
 </center>
 
 <center>
-    <li><a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a></li>
+    <a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a>
 </center>
 
 <br>
@@ -99,7 +99,7 @@ redirect_from:
 </center>
 
 <center>
-    <li><a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a></li>
+    <a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a>
 </center>
 
 <br>
@@ -122,7 +122,7 @@ redirect_from:
 </center>
 
 <center>
-    <li><a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a></li>
+    <a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a>
 </center>
 
 <br>
@@ -145,7 +145,7 @@ redirect_from:
 </center>
 
 <center>
-    <li><a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a></li>
+    <a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a>
 </center>
 
 &#9679; ***Alumni***
