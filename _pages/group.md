@@ -32,8 +32,7 @@ redirect_from:
     <a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a>
 </center>
 
-&#9679; ***Current PhD Students***
-======
+## ***&#9679;Current PhD Students***
 
 <center>
     <img style = "
