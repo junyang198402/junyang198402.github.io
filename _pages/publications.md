@@ -1,12 +1,10 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-redirect_from:
-  - /publications
+redirect_from: 
+  - /md/
 ---
-{% include base_path %}
 
 # Representative journal papers
   - title: "此处填写期刊论文标题"
