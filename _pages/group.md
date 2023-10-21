@@ -29,7 +29,7 @@ redirect_from:
 </center>
 
 <center>
-    <li><a href="http://github.com"><i class="ai ai-orcid-square ai-fw"></i> EMail</a></li>
+    <li><a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a></li>
 </center>
 
 ***Current PhD Students***
@@ -53,7 +53,7 @@ redirect_from:
 </center>
 
 <center>
-    <li><a href="http://github.com"><i class="ai ai-orcid-square ai-fw"></i> EMail</a></li>
+    <li><a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a></li>
 </center>
 
 <br>
@@ -76,7 +76,7 @@ redirect_from:
 </center>
 
 <center>
-    <li><a href="http://github.com"><i class="ai ai-orcid-square ai-fw"></i> EMail</a></li>
+    <li><a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a></li>
 </center>
 
 <br>
@@ -99,7 +99,7 @@ redirect_from:
 </center>
 
 <center>
-    <li><a href="http://github.com"><i class="ai ai-orcid-square ai-fw"></i> EMail</a></li>
+    <li><a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a></li>
 </center>
 
 <br>
@@ -122,7 +122,7 @@ redirect_from:
 </center>
 
 <center>
-    <li><a href="http://github.com"><i class="ai ai-orcid-square ai-fw"></i> EMail</a></li>
+    <li><a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a></li>
 </center>
 
 <br>
@@ -145,7 +145,7 @@ redirect_from:
 </center>
 
 <center>
-    <li><a href="http://github.com"><i class="ai ai-orcid-square ai-fw"></i> EMail</a></li>
+    <li><a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a></li>
 </center>
 
 ***Alumni***
@@ -166,6 +166,7 @@ redirect_from:
         padding: 2px;">
         Dr Rafal Madonski
     </div>
+    <br>
     <div style = "
         color: orange;
         border-bottom: 1px solid #d9d9d9;
@@ -194,6 +195,7 @@ redirect_from:
         padding: 2px;">
         Dr Fan Wang
     </div>
+       <br>
     <div style = "
         color: orange;
         border-bottom: 1px solid #d9d9d9;
@@ -221,6 +223,7 @@ redirect_from:
         padding: 2px;">
         Dr Shenhui Li
     </div>
+       <br>
     <div style = "
         color: orange;
         border-bottom: 1px solid #d9d9d9;
