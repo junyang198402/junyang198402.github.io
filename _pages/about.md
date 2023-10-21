@@ -13,9 +13,6 @@ FIET, SMIEEE, PhD, BEng
 
 **Reader in Autonomous and Electric Vehicles**
 
-- Phone: +44 (0)1509 227203
-- Email: J.Yang3@lboro.ac.uk
-- Office: SM3.30
 
 ## Background:
 I obtained my BEng in Automation from the School of Information Science and Engineering at Northeastern University, China in 2006 and subsequently earned my PhD in Control Engineering from the School of Automation at Southeast University, China in 2011. Before joining Loughborough University, I held positions as a Lecturer, Associate Professor, and Full Professor at Southeast University, starting in 2011, 2014, and 2018 respectively. In 2020, I joined the [Department of Aeronautical and Automotive Engineering](https://www.lboro.ac.uk/departments/aae/) (AAE) at Loughborough University, serving as a Senior Lecturer in Autonomous and Electric Vehicles.
