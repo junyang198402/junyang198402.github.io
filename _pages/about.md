@@ -11,27 +11,50 @@ redirect_from:
 
 
 # Dr Jun Yang
-FIET, SMIEEE, PhD, BEng
+IEEE Fellow, IET Fellow, AAIA Fellow
 
 
-## Background:
-I obtained my BEng in Automation from the School of Information Science and Engineering at Northeastern University, China in 2006 and subsequently earned my PhD in Control Engineering from the School of Automation at Southeast University, China in 2011. Before joining Loughborough University, I held positions as a Lecturer, Associate Professor, and Full Professor at Southeast University, starting in 2011, 2014, and 2018 respectively. In 2020, I joined the [Department of Aeronautical and Automotive Engineering](https://www.lboro.ac.uk/departments/aae/) (AAE) at Loughborough University, serving as a Senior Lecturer in Autonomous and Electric Vehicles.
+## Biography:
+Dr Yang is currently a Reader in Mechatronic and Autonomous Systems in the [Department of Aeronautical and Automotive Engineering](https://www.lboro.ac.uk/departments/aae/) (AAE) at Loughborough University (LU). Prior to joining LU, he was a full professor in control systems at Southeast University (SEU), Nanjing, China. Jun served as Head of Department of Automation (2018-2020), Vice-Director of Mechatronics Systems Control Lab in SEU (2012-2020), Co-founder and Vice-Chairman of Nanjing Chapter of IEEE Industrial Electronics Society (2018-now). 
 
+He obtained his BSc in Automation from School of Information Science and Engineering at Northeastern University, China in 2006 and subsequently his PhD in Control Engineering from School of Automation at Southeast University, China in 2011. He once held various academic visiting positions worldwide like Visiting Professor at Imperial College London (UK, 2019), Visiting Associate Professor at Nanyang Technological University (Singapore, 2016), and Visiting Research Fellows at RMIT University (Australia, 2015) and Western University of Sydney (Australia, 2013).
 
-## Qualifications:
-* Fellow of Institution of Engineering and Technology (IET) 2020.
-* Senior Member of Institute of Electrical and Electronics Engineers (IEEE) since 2018.
-* Vice Chair of Nanjing Chapter of IEEE Industrial Electronics Society since 2018.
-* PhD in Control Engineering, Southeast University, China, 2011.
-* BEng in Automation, Northeastern University, China, 2006.
+He was elevated as an IEEE Fellow in 2022, an AAIA Fellow in 2022, and an IET Fellow in 2020 for contributions in disturbance observer-based control (DOBC) and its applications to mechatronic and robotic systems. Jun was listed as one of the World’s Top 2% Scientists from 2020 and 2023 by Stanford University and the Highly Cited Chinese Researcher in 2020 by Elsevier. He won the EPSRC New Investigator Award (on optimisation and control of electric machines for electric vehicle applications) in 2022, and the National Young Talent Fellowship of China in 2018, which is one of the most prestigious personal awards for young academics in China. Jun was also a winner of Gold Medal of International Exhibition of Inventions of Geneva in 2022. 
+
+One of his published papers (DOI: 10.1109/TIE.2015.2478397) on an overview of DOBC was elected as the Most Popular Articles of IEEE Transactions on Industrial Electronics since 2016. His paper on advanced disturbance rejection control of power electronic systems won the Premium Award for best paper of IET Control Theory and Applications in 2017 (doi.org/10.1049/iet-cta.2014.0220). Jun’s research works on fundamental disturbance rejection control won the Annual ICI Prize for best paper of Transactions of the Institute of Measurement and Control (TIMC) in 2016 (DOI: 10.1177/0142331213499182), and the Most Cited Automatica Articles (2012-2017, doi.org/10.1016/j.automatica.2013.03.026). He serves as a Technical Editor of IEEE/ASME Transactions on Mechatronics since 2021, Associate Editors of IEEE Transactions on Industrial Electronics since 2022, which are the flagship journals in mechanical, electrical engineering, and control systems.
+
+His general research interests lie in advanced modelling and analysis, learning and estimation, optimisation and control methods that improve performance, efficiency, functionality, and safety of mechatronic and autonomous systems.
 
 
 ## Key Awards:
-* Outstanding Reviewer of the IET Control Theory and Applications, 2018.
-* Science and Technology Progress Award (Second Prize) of Jiangsu Province, 2018.
-* Premium Award for Best Paper in the IET Control Theory and Applications, 2017.
-* ICI Prize for Best Paper in the Transactions of the Institute of Measurement and Control, concerning work on the industrial application of control, 2016.
-* Outstanding Reviewer of the Automatica, 2016.
-* One paper was selected as one of the top hundred influential international academic papers in China, 2014.
-* Natural Science Award (Second Prize) of Ministry of Education of China, 2014.
-* One paper was selected as the Most Cited Automatica Articles (2013 to 2018, 25 Articles in total).
+### * Fellowships / Personal Achievements
+      * Fellow of AAIA (Asia-Pacific Artificial Intelligence Association), AAIA / HK, 2023.
+      * Fellow of IEEE (Institution of Electrical and Electronics Engineers), IEEE / US, 2022.
+      * Winner of EPSRC New Investigator Award, EPSRC / UK, 2022.
+      * Fellow of IET (Institution of Engineering and Technology), IET / UK, 2020.
+      * World’s Top 2% Scientist, Stanford University / US, 2020-2023.
+      * Highly Cited Chinese Researcher, Elsevier / Netherlands, 2020.
+      * Hwa Ying Scholar Award, Hwa Ying Culture and Education Foundation / China, 2016.
+      * Cyrus Tang Young Scholar Award, Cyrus Tang Foundation / China, 2016.
+
+### * Paper / Patent Awards
+      * IEEE ICAC Conference Best Paper Award, IEEE / US, 2023.
+      * IEEE PRECEDE Conference Best Paper Award, IEEE / US, 2023
+      * Winner of Gold Medal of International Exhibition of Inventions of Geneva, Switzerland, 2022.
+      * IEEE PRECEDE Conference Best Paper Award, IEEE / US, 2021.
+      * IEEJ SAMCON Conference Outstanding Paper Award, IEEJ / Japan, 2020.
+      * IET Premium Award for Best Paper in IET Control Theory and Applications, IET / UK, 2017.
+      * Annual ICI Prize for Best Paper in the Transactions of the Institute of Measurement and Control, ICM / UK, 2017.
+      * 100 Most Influential International Academic Papers (by Chinese scholars), Chinese government / China, 2014.
+      * Most Cited Automatica Articles, Elsevier / Netherlands, 2012 - 2017.
+
+### * Other Academic Awards
+      * Science and Technology Progress Award of Jiangsu Province, Chinese government / China, 2018.
+      * Outstanding Reviewer Award of IET Control Theory and Applications, IET / UK, 2018.
+      * Most Popular Articles of IEEE Transactions on Industrial Electronics, IEEE / US, 2016-now.
+      * Outstanding Reviewer Award of Automatica, Elsevier / Netherlands, 2016.
+      * Natural Science Award of Ministry of Education of China, Chinese government / China, 2014.
+      * Science and Technology Progress Award of Jiangsu Province, Chinese government / China, 2013.
+
+
+
