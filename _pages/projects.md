@@ -5,7 +5,7 @@ collection: projects
 ---
 
 
-&#9679; ***Grants as Principal Investigator***
+## *Grants as Principal Investigator*
 | Title                                                                                   | Role | Funder                                                      | Start Date | End Date  | Value                         | ID                              |
 | ----------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------- | ------------ | ---------- | ------------------------------- | --------------------------------- |
 | Modulator-free performance-oriented control (MfPOC) for direct electric drive           | PI   | EPSRC                                                       | 09/2022   | 08/2025  | £394k (FEC £493k)              | EP/W027283/1                    |
@@ -29,9 +29,9 @@ collection: projects
 | Disturbance observer enhanced model predictive speed regulation of permanent magnet synchronous motors | PI   | First Class Support of Chinese Postdoctoral Foundation       | 09/2013   | 03/2015  | ¥80k (approximately £9k)      |                                 |
 
 
-&#9679; ***Major grants as Co-Investigator***
-| Title                                                                                                                      | Role   | Funder                                                          | Start Date | End Date  | Value                         | ID                              |
-| ---------------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------- | ------------ | ---------- | ------------------------------- | --------------------------------- |
+## *Major grants as Co-Investigator*
+| Title                                                                                   | Role | Funder                                                      | Start Date | End Date  | Value                         | ID                              |
+| ----------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------- | ------------ | ---------- | ------------------------------- | --------------------------------- |
 | Direct drive intelligent servo theory and integration technology for ultra-precision manufacturing equipment              | Co-I (PI at SEU)   | Major Research Project of Natural Science Foundation of Shandong Province, China | 08/2019   | 07/2024  | ¥4m (approximately £470k)     |                 |
 | Tropical weather forecast                                                                                                  | Co-I   | National Key Research and Design Program Topics, China          | 12/2018   | 12/2021  | ¥2.91m (approximately £342k)  |              |
 | Industrial robot servo drives and motor development                                                                        | Co-I   | National 863 Program of China                                   | 01/2011   | 12/2012  | ¥5m (approximately £587k)     |             |
