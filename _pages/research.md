@@ -8,10 +8,10 @@ redirect_from:
 ---
 {% include base_path %}
 
-## Outline of main research interests:
+## Outline of main research interests
 My research encompasses a comprehensive exploration into advanced control theory, intricate motion planning, and their pragmatic applications. Specifically, the foci are:
 
-### Advanced Control Theory
+### Advanced Control Theory:
 Fundamental contributions have been made in disturbance observer-based control, sliding mode control, model predictive control, in particular in the area of unmatched disturbance compensation.
 
 ### Motion Planning and Control:
