@@ -9,7 +9,7 @@ redirect_from:
 
 # Group
 
-##  ***&#9679;Postdoc Researchers***
+##  ***&#9679; Postdoc Researchers***
 
 <center>
     <img style = "
@@ -148,257 +148,19 @@ redirect_from:
 </center>
 
 
-##  ***&#9679;Postdoc Researchers***
+##  ***&#9679; Alumni***
 
-<center>
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        Dr Rafal Madonski
-    </div>
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        Postdoc, now Associate Professor at Jinan University
-    </div>
-</center>
+  - Dr Rafal Madonski, Postdoc, now Associate Professor at Jinan University.
+  - Dr Fan Wang, Postdoc, now a Humboldt Research Fellow with the University of Duisburg-Essen, Germany.
+  - Dr Shenhui Li, Postdoc, now Associate Professor at Nanjing University of Science and Technology).
+  - Dr Yunda Yan, Postdoc and PhD, now Lecturer at UCL.
+  - Dr Zhongguo Li, Postdoc, now Lecturer at The University of Manchester.
+  - Dr Zhenhua Zhao, PhD, now Associate Professor at Nanjing University of Aeronautical and Aerospace.
+  - Dr Jianliang Mao, PhD, now Assistant Professor at Shanghai University of Electric Power.
+  - Dr Jiankun Sun, PhD, now Lecturer at Huazhong University of Science and Technology.
+  - Dr Ting Li, PhD, now Lecturer at Nanjing Normal University.
+  - Dr Lu Zhang, PhD, now Lecturer at Tiangong University.
+  - Dr Xiangyang Liu, PhD, now Senior Engineer at HUAWEI.
 
 
-<br>
 
-<center>
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        Dr Fan Wang
-    </div>
-       <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        Postdoc, now a Humboldt Research Fellow with the University of Duisburg-Essen, Germany
-    </div>
-</center>
-
-<br>
-
-<center>
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        Dr Shenhui Li
-    </div>
-       <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        Postdoc, now Associate Professor at Nanjing University of Science and Technology
-    </div>
-</center>
-
-<br>
-
-<center>
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        Dr Yunda Yan
-    </div>
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        Postdoc and PhD, now Lecturer at UCL
-    </div>
-</center>
-
-<br>
-
-<center>
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        Dr Zhongguo Li
-    </div>
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        Postdoc, now Lecturer at The University of Manchester
-    </div>
-</center>
-
-<br>
-
-<center>
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        Dr Zhenhua Zhao
-    </div>
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        PhD, now Associate Professor at Nanjing University of Aeronautical and Aerospace
-    </div>
-</center>
-
-<br>
-
-<center>
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        Dr Jianliang Mao
-    </div>
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        PhD, now Assistant Professor at Shanghai University of Electric Power
-    </div>
-</center>
-
-<br>
-
- <center>
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        Dr Jiankun Sun
-    </div>
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        PhD, now Lecturer at Huazhong University of Science and Technology
-    </div>
-</center>
-
-<br>
-
- <center>
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        Dr Ting Li
-    </div>
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        PhD, now Lecturer at Nanjing Normal University
-    </div>
-</center>
-
-<br>
-
- <center>
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        Dr Lu Zhang
-    </div>
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        PhD, now Lecturer at Tiangong University
-    </div>
-</center>
-
-<br>
-
-
- <center>
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        Dr Xiangyang Liu
-    </div>
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        PhD, now Senior Engineer at HUAWEI
-    </div>
-</center>
