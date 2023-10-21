@@ -25,7 +25,7 @@ collection: projects
 | High-order disturbance rejection and finite-time control for nonlinear systems          | PI   | Natural Science Foundation of Jiangsu Province, China        | 09/2012   | 08/2014  | ¥200k (approximately £23k)     |                                 |
 | Active anti-disturbance control via dynamic sliding-mode surface construction and Its applications | PI   | Doctoral Program Fund of Ministry of Education, China        | 09/2013   | 08/2015  | ¥40k (approximately £5k)       |                                 |
 | Predictive disturbance rejection control of permanent magnet synchronous motors with constraints | PI   | Special Support of Chinese Postdoctoral Foundation            | 09/2014   | 09/2015  | ¥150k (approximately £18k)     |                                 |
-| Disturbance observer enhanced model predictive speed regulation of permanent magnet synchronous motors | PI   | First Class Support of Chinese Postdoctoral Foundation       | 09/2013   | 03/2015  | ¥80k (approximately £9k | |
+| Disturbance observer enhanced model predictive speed regulation of permanent magnet synchronous motors | PI   | First Class Support of Chinese Postdoctoral Foundation       | 09/2013   | 03/2015  | ¥80k (approximately £9k |                                    |
 
 
 
