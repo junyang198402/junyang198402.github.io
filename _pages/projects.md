@@ -4,7 +4,7 @@ title: ""
 collection: projects
 ---
 
-# projects
+# Projects
 
 ## ***&#9679; Grants as Principal Investigator***
 

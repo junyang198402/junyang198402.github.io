@@ -9,8 +9,7 @@ redirect_from:
 
 # Group
 
-&#9679; ***Postdoc Researchers***
-======
+##  ***&#9679;Postdoc Researchers***
 
 <center>
     <img style = "
@@ -149,8 +148,8 @@ redirect_from:
     <a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a>
 </center>
 
-&#9679; ***Alumni***
-======
+
+##  ***&#9679;Postdoc Researchers***
 
 <center>
     <img style = "
