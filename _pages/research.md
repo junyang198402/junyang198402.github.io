@@ -10,7 +10,6 @@ redirect_from:
 
 # Research
 
-## Outline of main research interests
 
 ## &#9679; *Advanced Estimation and Control Theory for Intelligent Electrification*：
 Fundamental contributions have been made in disturbance observer-based control (DOBC), nonlinear control, sliding mode control, model predictive control, particularly in unmatched disturbance rejection. These contributions have been extensively applied to power electronics, machines, and drives (PEMD) to promote next generation intelligent electrification. He established a strong track record in applying the developed theoretical and technological innovations (e.g., learning and identification of nonlinearity, disturbance/uncertainty estimation and attenuation, vibration suppression) to industrial systems, particularly electric machines, and mechatronic systems.
