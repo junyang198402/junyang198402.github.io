@@ -81,8 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Jun Yang"
-  avatar           : "JunYang.png"
-  bio              : "Reader in Autonomous and Electric Vehicles"
+  avatar           : "JunYang.jpg"
+  bio: "Reader in Mechatronic and Autonomous Systems 
+  Department of Aeronautical and Automotive Engineering 
+  Loughborough University"
   location         : "Loughborough, Leicestershire"
   employer         : "Loughborough University"
   pubmed           : 
