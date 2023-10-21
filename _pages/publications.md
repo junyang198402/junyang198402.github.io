@@ -1,9 +1,13 @@
 ---
-permalink: /publications/
+layout: archive
 title: "Publications"
-layout: publications
+permalink: /publications/
 author_profile: true
-publications:
+redirect_from:
+  - /publications
+---
+{% include base_path %}
+
 
 # Published online
   - title: "<q>Surviving Disturbances: A Predictive Control Framework With Guaranteed Safety</q>"
