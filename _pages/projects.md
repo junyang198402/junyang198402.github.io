@@ -3,6 +3,8 @@ permalink: /projects/
 title: "Projects"
 collection: projects
 ---
+
+
 &#9679; ***Grants as Principal Investigator***
 | Title                                                                                   | Role | Funder                                                      | Start Date | End Date  | Value                         | ID                              |
 |-----------------------------------------------------------------------------------------|------|-------------------------------------------------------------|------------|----------|-------------------------------|---------------------------------|
@@ -25,6 +27,7 @@ collection: projects
 | Active anti-disturbance control via dynamic sliding-mode surface construction and Its applications | PI   | Doctoral Program Fund of Ministry of Education, China        | 09/2013   | 08/2015  | ¥40k (approximately £5k)       |                                 |
 | Predictive disturbance rejection control of permanent magnet synchronous motors with constraints | PI   | Special Support of Chinese Postdoctoral Foundation            | 09/2014   | 09/2015  | ¥150k (approximately £18k)     |                                 |
 | Disturbance observer enhanced model predictive speed regulation of permanent magnet synchronous motors | PI   | First Class Support of Chinese Postdoctoral Foundation       | 09/2013   | 03/2015  | ¥80k (approximately £9k
+
 
 &#9679; ***Major grants as Co-Investigator***
 | Title                                                                                                                      | Role   | Funder                                                          | Start Date | End Date  | Value                         | ID                              |
