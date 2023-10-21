@@ -7,7 +7,7 @@ collection: projects
 
 &#9679; ***Grants as Principal Investigator***
 | Title                                                                                   | Role | Funder                                                      | Start Date | End Date  | Value                         | ID                              |
-|-----------------------------------------------------------------------------------------|------|-------------------------------------------------------------|------------|----------|-------------------------------|---------------------------------|
+| ----------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------- | ------------ | ---------- | ------------------------------- | --------------------------------- |
 | Modulator-free performance-oriented control (MfPOC) for direct electric drive           | PI   | EPSRC                                                       | 09/2022   | 08/2025  | £394k (FEC £493k)              | EP/W027283/1                    |
 | National Youth Talent Fellowship of China                                               | PI   | Chinese Government                                           | 01/2019   | 12/2021  | ¥1.8m (approximately £211k)    |                                 |
 | Full control loop multiple disturbance cancellation and suppression: analysis and synthesis | PI   | NSFC                                                        | 01/2020   | 12/2023  | ¥650k (approximately £76k)     |                                 |
