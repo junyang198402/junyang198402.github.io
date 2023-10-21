@@ -27,7 +27,7 @@ His general research interests lie in advanced modelling and analysis, learning 
 
 
 ## Key Awards:
-- **Fellowships / Personal Achievements**
+- ***Fellowships / Personal Achievements***
   - Fellow of AAIA (Asia-Pacific Artificial Intelligence Association), AAIA / HK, 2023.
   - Fellow of IEEE (Institution of Electrical and Electronics Engineers), IEEE / US, 2022.
   - Winner of EPSRC New Investigator Award, EPSRC / UK, 2022.
@@ -37,7 +37,7 @@ His general research interests lie in advanced modelling and analysis, learning 
   - Hwa Ying Scholar Award, Hwa Ying Culture and Education Foundation / China, 2016.
   - Cyrus Tang Young Scholar Award, Cyrus Tang Foundation / China, 2016.
 
-- **Paper / Patent Awards**
+- ***Paper / Patent Awards***
   - IEEE ICAC Conference Best Paper Award, IEEE / US, 2023.
   - IEEE PRECEDE Conference Best Paper Award, IEEE / US, 2023
   - Winner of Gold Medal of International Exhibition of Inventions of Geneva, Switzerland, 2022.
@@ -48,7 +48,7 @@ His general research interests lie in advanced modelling and analysis, learning 
   - 100 Most Influential International Academic Papers (by Chinese scholars), Chinese government / China, 2014.
   - Most Cited Automatica Articles, Elsevier / Netherlands, 2012 - 2017.
       
-- **Other Academic Awards**
+- ***Other Academic Awards***
   - Science and Technology Progress Award of Jiangsu Province, Chinese government / China, 2018.
   - Outstanding Reviewer Award of IET Control Theory and Applications, IET / UK, 2018.
   - Most Popular Articles of IEEE Transactions on Industrial Electronics, IEEE / US, 2016-now.
