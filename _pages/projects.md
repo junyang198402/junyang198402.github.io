@@ -32,7 +32,16 @@ collection: projects
 | Disturbance rejection control of AC servo systems. Jiangsu Postdoctoral Research Funding Program | PI   | First Class Support of Chinese Postdoctoral Foundation       | 09/2013   | 03/2015  | 50k (approximately £6k) |                                    |
 
 
+&#9679;  ***Major grants as Co-Investigator***
 
+
+| Title                                                                                                                      | Role   | Funder                                                          | Start Date | End Date  | Value                         | ID                              |
+|----------------------------------------------------------------------------------------------------------------------------|--------|-----------------------------------------------------------------|------------|----------|-------------------------------|---------------------------------|
+| Direct drive intelligent servo theory and integration technology for ultra-precision manufacturing equipment              | Co-I Co-I (PI at SEU)  | Major Research Project of Natural Science Foundation of Shandong Province, China | 08/2019   | 07/2024  | ¥4m (approximately £470k)     |                 |
+| Tropical weather forecast                                                                                                  | Co-I   | National Key Research and Design Program Topics, China          | 12/2018   | 12/2021  | ¥2.91m (approximately £342k)  |              |
+| Industrial robot servo drives and motor development                                                                        | Co-I   | National 863 Program of China                                   | 01/2011   | 12/2012  | ¥5m (approximately £587k)     |              |
+| Disturbance observer-based control and industrial applications                                                            | Co-I   | Natural Science Foundation of Jiangsu Province, China           | 09/2014   | 08/2016  | ¥1m (approximately £117k)     |             |
+| Control and optimization of high-power grinding and classification process                                                 | Co-I   | National 863 Program of China                                   | 01/2009   | 12/2010  | ¥1m (approximately £117k)     |             |
 
 
 
