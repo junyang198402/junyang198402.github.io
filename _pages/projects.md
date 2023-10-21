@@ -1,4 +1,5 @@
 ---
+permalink: /projects/
 title: "Projects"
 collection: projects
 type: "此处输入项目类型"
