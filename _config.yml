@@ -83,13 +83,12 @@ author:
   name             : "Jun Yang"
   avatar           : "profile.png"
   bio              : "Reader in Autonomous and Electric Vehicles"
-  location         : "Loughborough, Leicestershire"
-  location         : "Loughborough University"
+  location         : "Epinal Way, Loughborough Leicestershire, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LWK-N8YAAAAJ&hl=zh-CN&oi=ao"
   email            : "J.Yang3@lboro.ac.uk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Jun-Yang-94"
   uri              :
   bitbucket        :
   codepen          :
@@ -110,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
