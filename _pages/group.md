@@ -15,7 +15,7 @@ redirect_from:
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/profile.png" 
+        src = "../images/YufeiZuo.jpg" 
         width = "20%">
     <br>
     <div style = "
@@ -38,7 +38,7 @@ redirect_from:
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/profile.png" 
+        src = "../images/McGeary.jpg" 
         width = "20%">
     <br>
     <div style = "
@@ -61,7 +61,7 @@ redirect_from:
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/profile.png" 
+        src = "../images/XinmingWang.jpg" 
         width = "20%">
     <br>
     <div style = "
@@ -84,7 +84,7 @@ redirect_from:
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/profile.png" 
+        src = "../images/JinhaoLiu.jpg" 
         width = "20%">
     <br>
     <div style = "
@@ -107,7 +107,7 @@ redirect_from:
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/profile.png" 
+        src = "../images/YimengLi" 
         width = "20%">
     <br>
     <div style = "
@@ -116,7 +116,7 @@ redirect_from:
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Ms Yimeng Liu
+        Ms Yimeng Li
     </div>
 </center>
 
@@ -151,11 +151,6 @@ redirect_from:
 ##  ***&#9679;Postdoc Researchers***
 
 <center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/profile.png" 
-        width = "20%">
     <br>
     <div style = "
         color: orange;
@@ -180,11 +175,6 @@ redirect_from:
 <br>
 
 <center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/profile.png" 
-        width = "20%">
     <br>
     <div style = "
         color: orange;
@@ -208,11 +198,6 @@ redirect_from:
 <br>
 
 <center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/profile.png" 
-        width = "20%">
     <br>
     <div style = "
         color: orange;
@@ -236,11 +221,6 @@ redirect_from:
 <br>
 
 <center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/profile.png" 
-        width = "20%">
     <br>
     <div style = "
         color: orange;
@@ -264,11 +244,6 @@ redirect_from:
 <br>
 
 <center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/profile.png" 
-        width = "20%">
     <br>
     <div style = "
         color: orange;
@@ -292,11 +267,6 @@ redirect_from:
 <br>
 
 <center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/profile.png" 
-        width = "20%">
     <br>
     <div style = "
         color: orange;
@@ -320,11 +290,6 @@ redirect_from:
 <br>
 
 <center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/profile.png" 
-        width = "20%">
     <br>
     <div style = "
         color: orange;
@@ -348,11 +313,6 @@ redirect_from:
 <br>
 
  <center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/profile.png" 
-        width = "20%">
     <br>
     <div style = "
         color: orange;
@@ -376,11 +336,6 @@ redirect_from:
 <br>
 
  <center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/profile.png" 
-        width = "20%">
     <br>
     <div style = "
         color: orange;
@@ -404,11 +359,6 @@ redirect_from:
 <br>
 
  <center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/profile.png" 
-        width = "20%">
     <br>
     <div style = "
         color: orange;
@@ -433,11 +383,6 @@ redirect_from:
 
 
  <center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/profile.png" 
-        width = "20%">
     <br>
     <div style = "
         color: orange;
