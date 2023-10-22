@@ -19,6 +19,9 @@ One of his published papers (DOI: 10.1109/TIE.2015.2478397) on an overview of DO
 His general research interests lie in advanced modelling and analysis, learning and estimation, optimisation and control methods that improve performance, efficiency, functionality, and safety of mechatronic and autonomous systems.
 
 
+## 📰 *News*
+
+  - <img src="https://img.shields.io/badge/Oct-2023-lightblue" alt = "Aug-2023" align="top"> I am happy to share xxxx.  
 
 
 
