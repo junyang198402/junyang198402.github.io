@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
-# Dr Jun Yang
-IEEE Fellow, IET Fellow, AAIA Fellow
-
-
-## Biography:
 Dr Yang is currently a Reader in Mechatronic and Autonomous Systems in the [Department of Aeronautical and Automotive Engineering](https://www.lboro.ac.uk/departments/aae/) (AAE) at Loughborough University (LU). Prior to joining LU, he was a full professor in control systems at Southeast University (SEU), Nanjing, China. Jun served as Head of Department of Automation (2018-2020), Vice-Director of Mechatronics Systems Control Lab in SEU (2012-2020), Co-founder and Vice-Chairman of Nanjing Chapter of IEEE Industrial Electronics Society (2018-now). 
 
 He obtained his BSc in Automation from School of Information Science and Engineering at Northeastern University, China in 2006 and subsequently his PhD in Control Engineering from School of Automation at Southeast University, China in 2011. He once held various academic visiting positions worldwide like Visiting Professor at Imperial College London (UK, 2019), Visiting Associate Professor at Nanyang Technological University (Singapore, 2016), and Visiting Research Fellows at RMIT University (Australia, 2015) and Western University of Sydney (Australia, 2013).
