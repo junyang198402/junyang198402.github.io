@@ -11,7 +11,7 @@ redirect_from:
 
 ## ***&#9679; Journal Publications***
 
-1. M. Cao, S. Li, J. Yang, and K. Zhang, “Mismatched disturbance compensation enhanced robust H-infinity control for the DC-DC boost converter feeding constant power loads,” IEEE Transactions on Energy Conversion, vol. 38, no. 2, pp. 1300–1310, 2023.  
+1.  M. Cao, S. Li, J. Yang, and K. Zhang, “Mismatched disturbance compensation enhanced robust H-infinity control for the DC-DC boost converter feeding constant power loads,” IEEE Transactions on Energy Conversion, vol. 38, no. 2, pp. 1300–1310, 2023.  
 
 2.	H. Chang, S. Lu, S. Zheng, B. Song, and J. Yang, “Integration of predictive control and intercon- nected structure for autotuning velocity controller,” IEEE/ASME Transactions on Mechatronics, 2023. doI: 10.1109/TMECH.2023.3262558.
 
