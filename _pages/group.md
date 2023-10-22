@@ -29,7 +29,7 @@ redirect_from:
 </center>
 
 <center>
-    <a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a>
+    <a href="mailto:Y.Zuo@lboro.ac.uk"><i class="fas fa-fw fa-envelope"></i> EMail</a>
 </center>
 
 ## ***&#9679; Current PhD Students***
@@ -52,7 +52,7 @@ redirect_from:
 </center>
 
 <center>
-    <a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a>
+    <a href="mailto:J.R.Mcgeary@lboro.ac.uk"><i class="fas fa-fw fa-envelope"></i> EMail</a>
 </center>
 
 <br>
@@ -144,7 +144,7 @@ redirect_from:
 </center>
 
 <center>
-    <a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a>
+    <a href="mailto:"><i class="fas fa-fw fa-envelope"></i> EMail</a>
 </center>
 
 
