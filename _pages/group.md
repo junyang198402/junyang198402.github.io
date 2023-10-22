@@ -144,7 +144,7 @@ redirect_from:
 </center>
 
 <center>
-    <a href="mailto:"><i class="fas fa-fw fa-envelope"></i> EMail</a>
+    <a href="mailto:t.yang@lboro.ac.uk"><i class="fas fa-fw fa-envelope"></i> EMail</a>
 </center>
 
 
