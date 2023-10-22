@@ -75,7 +75,7 @@ redirect_from:
 </center>
 
 <center>
-    <a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a>
+    <a href="296104678@qq.com"><i class="fas fa-fw fa-envelope"></i> EMail</a>
 </center>
 
 <br>
@@ -98,7 +98,7 @@ redirect_from:
 </center>
 
 <center>
-    <a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a>
+    <a href="kcream1900@163.com"><i class="fas fa-fw fa-envelope"></i> EMail</a>
 </center>
 
 <br>
@@ -121,7 +121,7 @@ redirect_from:
 </center>
 
 <center>
-    <a href="http://github.com"><i class="fas fa-fw fa-envelope"></i> EMail</a>
+    <a href="lym-seu@seu.edu.cn"><i class="fas fa-fw fa-envelope"></i> EMail</a>
 </center>
 
 <br>
