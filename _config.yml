@@ -176,7 +176,7 @@ kramdown:
 
 # Collections
 collections:
-  Research:
+  research:
     output: true
     permalink: /:collection/:path/
   teaching:
@@ -231,7 +231,7 @@ defaults:
   # _research
   - scope:
       path: ""
-      type: Research
+      type: research
     values:
       layout: single
       author_profile: true
