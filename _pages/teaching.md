@@ -6,7 +6,7 @@ author_profile: true
 
 # Teaching
 
-{% include base_path %}
+
 ## ***&#9679; Teaching at Loughborough University***
 
   - TTD106 Autonomous Vehicles, 10 credits, 65% lectures and tutorials, module leader.
