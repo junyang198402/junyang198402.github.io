@@ -7,12 +7,10 @@ redirect_from:
 ---
 
 # Publications
-✧ *__Journal Publications__*
+## ✧ *Journal Publications*
 
-1.  M. Cao, S. Li, J. Yang, and K. Zhang, “Mismatched disturbance compensation enhanced robust H-infinity control for the DC-DC boost converter feeding constant power loads,” IEEE Transactions on Energy Conversion, vol. 38, no. 2, pp. 1300–1310, 2023.  
-
-2.	H. Chang, S. Lu, S. Zheng, B. Song, and J. Yang, “Integration of predictive control and intercon- nected structure for autotuning velocity controller,” IEEE/ASME Transactions on Mechatronics, 2023. doI: 10.1109/TMECH.2023.3262558.
-
+1.  M. Cao, S. Li, J. Yang, and K. Zhang, “Mismatched disturbance compensation enhanced robust H-infinity control for the DC-DC boost converter feeding constant power loads,” IEEE Transactions on Energy Conversion, vol. 38, no. 2, pp. 1300–1310, 2023.</br>  
+2.	H. Chang, S. Lu, S. Zheng, B. Song, and J. Yang, “Integration of predictive control and intercon- nected structure for autotuning velocity controller,” IEEE/ASME Transactions on Mechatronics, 2023. doI: 10.1109/TMECH.2023.3262558.</br> 
 3.	Z. Li, W.-H. Chen, and J. Yang, “Concurrent active learning in autonomous airborne source search: Dual control for exploration and exploitation,” IEEE Transactions on Automatic Control, vol. 68, no. 5, pp. 3123–3130, 2023.
 
 4.	Z. Li, W.-H. Chen, J. Yang, and Y. Yan, “AID-RL: Active information-directed reinforcement learning for autonomous source seeking and estimation,” Neurocomputing, vol. 544, pp. 126281, 2023.
@@ -458,7 +456,7 @@ IEEE Transactions on Aerospace and Electronic Systems, vol. 49, no. 1, pp. 558�
 
 222.	J. Yang, A. Zolotas, W.-H. Chen, K. Michail, and S. Li, “Disturbance observer based control for nonlinear MAGLEV suspension system,” in 2010 Conference on Control and Fault-Tolerant Systems (SysTol), IEEE, 2010, pp. 281–286.
 
-✧ *__Book Publications__*
+## ✧ *Book Publications*
 
 223.	C. Zhang and J. Yang, Nonrecursive Control Design for Nonlinear Systems: Theory and Applica- tions. CRC Press, 2023.
 
