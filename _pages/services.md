@@ -9,7 +9,8 @@ redirect_from:
 
 # Professional Services
 
-## ***&#9679; Editorial Activities***
+## ✧ *Editorial Activities*
+
 
   - Associate Editor, IEEE Transactions on Industrial Electronics, IEEE / US, 2022 – now.
   - Technical Editor, IEEE/ASME Transactions on Mechatronics, IEEE / US, 2021 – now.
@@ -18,7 +19,7 @@ redirect_from:
   - Associate Editor, Transactions of the Institute of Measurement and Control, IMC / UK, 2016 – now.
   - Associate Editor, Journal of Control and Decision, Taylor & Francis / UK, 2022 – now.
 
-## ***&#9679; Conference Activities***
+## ✧ *Conference Activities*
 
   - Technical Committee Member of IEEE TC on Control, Mechatronics and Robotics, IEEE / US, 2019 – now.
   - Technical Committee Member of IEEE TC on Motion Control, IEEE / US, 2023 – now.
@@ -31,7 +32,7 @@ redirect_from:
   - Tutorial Session Organizer of 2019 IEEE Conference on Control Technology and Applications (IEEE CCTA) / China, 2019.
   - Technical Program Chair of IEEE Conference on Industrial Electronics and Applications, 2017 – 2022.
 
-## ***&#9679; PhD Examiners***
+## ✧ *PhD Examiners*
 
   - PhD Examiner, Cranfield University / UK, 2023.
   - PhD Examiner, University of New South Wales / Australia, 2022.
