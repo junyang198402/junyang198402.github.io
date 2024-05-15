@@ -9,7 +9,7 @@ redirect_from:
 
 # Group
 
-##  ***&#9679; Postdoc Researchers***
+## ✧ *Postdoc Researchers*
 
 <center>
     <img style = "
@@ -32,8 +32,7 @@ redirect_from:
     <a href="mailto:Y.Zuo@lboro.ac.uk"><i class="fas fa-fw fa-envelope"></i> EMail</a>
 </center>
 
-## ***&#9679; Current PhD Students***
-
+## ✧ *Current PhD Students*
 <center>
     <img style = "
         border-radius: 0.3125em;
@@ -148,8 +147,7 @@ redirect_from:
 </center>
 
 
-##  ***&#9679; Alumni***
-
+## ✧ *Alumni*
   - Dr Rafal Madonski, Postdoc, now Associate Professor at Jinan University.
   - Dr Fan Wang, Postdoc, now a Humboldt Research Fellow with the University of Duisburg-Essen, Germany.
   - Dr Shenhui Li, Postdoc, now Associate Professor at Nanjing University of Science and Technology).
