@@ -6,7 +6,8 @@ collection: awards
 
 # Awards
 
-## ***&#9679; Fellowships / Personal Achievements***
+## ✧ *Fellowships / Personal Achievements*
+
 
   - Fellow of AAIA (Asia-Pacific Artificial Intelligence Association), AAIA / HK, 2023.
   - Fellow of IEEE (Institution of Electrical and Electronics Engineers), IEEE / US, 2022.
@@ -17,7 +18,7 @@ collection: awards
   - Hwa Ying Scholar Award, Hwa Ying Culture and Education Foundation / China, 2016.
   - Cyrus Tang Young Scholar Award, Cyrus Tang Foundation / China, 2016.
 
-## ***&#9679; Paper / Patent Awards***
+## ✧ *Paper / Patent Awards*
 
   - IEEE ICAC Conference Best Paper Award, IEEE / US, 2023.
   - IEEE PRECEDE Conference Best Paper Award, IEEE / US, 2023
@@ -30,8 +31,7 @@ collection: awards
   - Most Cited Automatica Articles, Elsevier / Netherlands, 2012 - 2017.
 
 
-## ***&#9679; Other Academic Awards***
-
+## ✧ *Other Academic Awards*
  
   - Science and Technology Progress Award of Jiangsu Province, Chinese government / China, 2018.
   - Outstanding Reviewer Award of IET Control Theory and Applications, IET / UK, 2018.
