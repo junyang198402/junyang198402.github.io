@@ -6,7 +6,8 @@ collection: projects
 
 # Projects
 
-## ***&#9679; Grants as Principal Investigator***
+## ✧ *Grants as Principal Investigator*
+
 
 1.	Modulator-free performance-oriented control (MfPOC) for direct electric drive. EPSRC, EP/W027283/1. 09/2022-08/2025. £394k (FEC £493k). PI.
 2.	National Youth Talent Fellowship of China. Chinese Government. 01/2019-12/2021. ¥1.8m (approximately £211k). PI.
@@ -30,7 +31,7 @@ collection: projects
 20.	Disturbance rejection control of AC servo systems. Jiangsu Postdoctoral Research Funding Program. 09/2013-03/2015. ¥50k (approximately £6k). PI.
 
 
-## ***&#9679; Major Grants as Co-Investigator***
+## ✧ *Major Grants as Co-Investigator*
 
 21.	Direct drive intelligent servo theory and integration technology for ultra-precision manufacturing equipment. Major Research Project of Natural Science Foundation of Shandong Province, China. 08/2019-07/2024. ¥4m (approximately £470k). Co-I (PI at SEU).
 22.	Tropical weather forecast. National Key Research and Design Program Topics, China. 12/2018-12/2021. ¥2.91m (approximately £342k). Co-I.
