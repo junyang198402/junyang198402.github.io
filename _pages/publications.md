@@ -7,8 +7,7 @@ redirect_from:
 ---
 
 # Publications
-
-## ***&#9679; Journal Publications***
+✧ *__Journal Publications__*
 
 1.  M. Cao, S. Li, J. Yang, and K. Zhang, “Mismatched disturbance compensation enhanced robust H-infinity control for the DC-DC boost converter feeding constant power loads,” IEEE Transactions on Energy Conversion, vol. 38, no. 2, pp. 1300–1310, 2023.  
 
@@ -459,7 +458,7 @@ IEEE Transactions on Aerospace and Electronic Systems, vol. 49, no. 1, pp. 558�
 
 222.	J. Yang, A. Zolotas, W.-H. Chen, K. Michail, and S. Li, “Disturbance observer based control for nonlinear MAGLEV suspension system,” in 2010 Conference on Control and Fault-Tolerant Systems (SysTol), IEEE, 2010, pp. 281–286.
 
-## ***&#9679; Book Publications***
+✧ *__Book Publications__*
 
 223.	C. Zhang and J. Yang, Nonrecursive Control Design for Nonlinear Systems: Theory and Applica- tions. CRC Press, 2023.
 
