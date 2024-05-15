@@ -22,6 +22,8 @@ His general research interests lie in advanced modelling and analysis, learning 
 
 ## 📰 *News*
 
+  - <img src="https://img.shields.io/badge/Mar-2024-lightblue" alt = "Mar-2024" align="top"> Our paper entitled ‘A formal finite-control-set control approach for PMSM drives under disturbances’ won Best Theory Paper Prize of the 25th IEEE International Conference on Industrial Technology held in Bristol, UK.
+  - <img src="https://img.shields.io/badge/Mar-2024-lightblue" alt = "Mar-2024" align="top"> Our paper entitled ‘Composite finite-time control of electromechanical actuator with integrated friction compensation and uncertainties attenuation’ won Outstanding Paper Award of SAMCON 2024 held in Kyoto, Japan.
   - <img src="https://img.shields.io/badge/Oct-2023-lightblue" alt = "Oct-2023" align="top"> Welcome Mr Tianxiao Yang to join the group as a new PhD student.
   - <img src="https://img.shields.io/badge/Sep-2023-lightblue" alt = "Sep-2023" align="top"> The group’s work won the award of Best Conference Paper of The 28th International Conference on Automation and Computing (ICAC2023) held in Birmingham, UK.
   - <img src="https://img.shields.io/badge/Jun-2023-lightblue" alt = "Jun-2023" align="top"> Jun has been promoted to a Chair position of Reader.
