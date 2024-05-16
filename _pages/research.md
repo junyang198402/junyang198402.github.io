@@ -11,28 +11,28 @@ redirect_from:
 
 
 ## ✧	Intelligent automation and robotics
-✧  Vision-based agile control<br>
-✧  Interactive robot control control<br>
-✧  Safety-critical control<br>
-✧  Active learning and inference<br>
-✧  Formal verification and control<br>
-✧  Motion planning and path following<br>
-✧  Sensor fusion and state estimation<br>
-✧  Computer vision<br>
-✧  SLAM<br>
-✧  Industrial robots, UAVs, automated port cranes, autonomous vehicles<br>
+  - Vision-based agile control<br>
+  - Interactive robot control control<br>
+  - Safety-critical control<br>
+  - Active learning and inference<br>
+  - Formal verification and control<br>
+  - Motion planning and path following<br>
+  - Sensor fusion and state estimation<br>
+  - Computer vision<br>
+  - SLAM<br>
+  - Industrial robots, UAVs, automated port cranes, autonomous vehicles<br>
 
 ## ✧	Mechatronic systems and control
-✧ 	Modelling, learning and system identification<br>
-✧ 	Energy efficiency optimization<br>
-✧ 	Disturbance observer<br>
-✧ 	Motion control<br>
-✧ 	High bandwidth control<br>
-✧ 	Vibration suppression<br>
-✧ 	Nonlinear control<br>
-✧ 	Model predictive control<br>
-✧ 	Transport electrification<br>
-✧ 	Power electronics, machines, and drives<br>
+  - Modelling, learning and system identification<br>
+  - Energy efficiency optimization<br>
+  - Disturbance observer<br>
+  - Motion control<br>
+  - High bandwidth control<br>
+  - Vibration suppression<br>
+  - Nonlinear control<br>
+  - Model predictive control<br>
+  - Transport electrification<br>
+  - Power electronics, machines, and drives<br>
 
 ## ✧  Videos of recent works
 ✧   Safety-critical robotic force interaction <br>
