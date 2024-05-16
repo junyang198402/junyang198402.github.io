@@ -35,19 +35,19 @@ redirect_from:
   - Power electronics, machines, and drives<br>
 
 ## ✧  Videos of recent works
-✧   Safety-critical robotic force interaction <br>
+  - Safety-critical robotic force interaction <br>
 
 [![Safety-critical robotic force interaction](https://img.youtube.com/vi/1Ag3sTgQKwM/0.jpg)](https://youtu.be/1Ag3sTgQKwM)
 
-✧ 	 Dynamic obstacle avoidance of robot <br>
+  - Dynamic obstacle avoidance of robot <br>
 
 To be updated.
 
-✧ 	 Safe motion control of underactuated suspension robot <br>
+  - Safe motion control of underactuated suspension robot <br>
 
 [![Safe motion control of underactuated suspension robot](https://img.youtube.com/vi/rwwKk4ljFWI/0.jpg)](https://www.youtube.com/watch?v=rwwKk4ljFWI)
 
-✧ 	 Safe motion planning of underactuated suspension robot <br>
+  - Safe motion planning of underactuated suspension robot <br>
 
 [![Safe motion planning of underactuated suspension robot](https://img.youtube.com/vi/8Fh2PYZnidg/0.jpg)](https://www.youtube.com/watch?v=8Fh2PYZnidg)
 
