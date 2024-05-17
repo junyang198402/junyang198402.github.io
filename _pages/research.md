@@ -41,7 +41,7 @@ redirect_from:
 
   - Dynamic obstacle avoidance of robot <br>
 
-To be updated.
+[![Safety-critical robotic force interaction](https://img.youtube.com/vi/W-Mg87ewiC8/0.jpg)](https://youtu.be/W-Mg87ewiC8)
 
   - Safe motion control of underactuated suspension robot <br>
 
