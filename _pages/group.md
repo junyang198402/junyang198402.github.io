@@ -24,7 +24,7 @@ redirect_from:
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Dr Yuefei Zuo
+        Dr Jie Han
     </div>
 </center>
 
@@ -148,6 +148,7 @@ redirect_from:
 
 
 ## ✧ *Alumni*
+  -	Dr Yuefei Zuo, Postdoc, now Full Professor at Nanjing University of Aeronautics and Astronautics.
   - Dr Rafal Madonski, Postdoc, now Associate Professor at Jinan University.
   - Dr Fan Wang, Postdoc, now a Humboldt Research Fellow with the University of Duisburg-Essen, Germany.
   - Dr Shenhui Li, Postdoc, now Associate Professor at Nanjing University of Science and Technology).
