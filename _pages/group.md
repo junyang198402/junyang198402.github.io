@@ -9,7 +9,7 @@ redirect_from:
 
 # Group
 
-## ✧ *Postdoc Researchers*
+## ✧ &nbsp;&nbsp;*Postdoc Researchers*
 
 <center>
     <img style = "
@@ -32,7 +32,7 @@ redirect_from:
     <a href="mailto:Y.Zuo@lboro.ac.uk"><i class="fas fa-fw fa-envelope"></i> EMail</a>
 </center>
 
-## ✧ *Current PhD Students*
+## ✧ &nbsp;&nbsp;*Current PhD Students*
 <center>
     <img style = "
         border-radius: 0.3125em;
@@ -147,19 +147,19 @@ redirect_from:
 </center>
 
 
-## ✧ *Alumni*
-  -	Dr Yuefei Zuo, Postdoc, now Full Professor at Nanjing University of Aeronautics and Astronautics.
-  - Dr Rafal Madonski, Postdoc, now Associate Professor at Jinan University.
-  - Dr Fan Wang, Postdoc, now a Humboldt Research Fellow with the University of Duisburg-Essen, Germany.
-  - Dr Shenhui Li, Postdoc, now Associate Professor at Nanjing University of Science and Technology).
-  - Dr Yunda Yan, Postdoc and PhD, now Lecturer at UCL.
-  - Dr Zhongguo Li, Postdoc, now Lecturer at The University of Manchester.
-  - Dr Zhenhua Zhao, PhD, now Associate Professor at Nanjing University of Aeronautical and Aerospace.
-  - Dr Jianliang Mao, PhD, now Assistant Professor at Shanghai University of Electric Power.
-  - Dr Jiankun Sun, PhD, now Lecturer at Huazhong University of Science and Technology.
-  - Dr Ting Li, PhD, now Lecturer at Nanjing Normal University.
-  - Dr Lu Zhang, PhD, now Lecturer at Tiangong University.
-  - Dr Xiangyang Liu, PhD, now Senior Engineer at HUAWEI.
+## ✧ &nbsp;&nbsp;*Alumni*
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Dr Yuefei Zuo, Postdoc, now Full Professor at Nanjing University of Aeronautics and Astronautics.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Dr Rafal Madonski, Postdoc, now Associate Professor at Jinan University.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Dr Fan Wang, Postdoc, now a Humboldt Research Fellow with the University of Duisburg-Essen, Germany.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Dr Shenhui Li, Postdoc, now Associate Professor at Nanjing University of Science and Technology).<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Dr Yunda Yan, Postdoc and PhD, now Lecturer at UCL.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Dr Zhongguo Li, Postdoc, now Lecturer at The University of Manchester.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Dr Zhenhua Zhao, PhD, now Associate Professor at Nanjing University of Aeronautical and Aerospace.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Dr Jianliang Mao, PhD, now Assistant Professor at Shanghai University of Electric Power.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Dr Jiankun Sun, PhD, now Associate Professor at Huazhong University of Science and Technology.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Dr Ting Li, PhD, now Lecturer at Nanjing Normal University.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Dr Lu Zhang, PhD, now Lecturer at Tiangong University.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Dr Xiangyang Liu, PhD, now Senior Engineer at HUAWEI.<br>
 
 
 
