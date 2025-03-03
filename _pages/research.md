@@ -39,40 +39,36 @@ redirect_from:
 <!--[![RAID-AgiVS: A Bio-Inspired RPC Framework for Agile Visual Servo](https://img.youtube.com/vi/ZgJ_cuIstP8/0.jpg)](https://youtu.be/ZgJ_cuIstP8)-->
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Safety-critical robotic force interaction <br>
-
 <center>
   <a href="https://youtu.be/qzvGprNp2vU">
-    <img style="width: 40%; height: auto; object-fit: cover; border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08);" 
+    <img style="width: 50%; height: auto; object-fit: cover; border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08);" 
          src="https://img.youtube.com/vi/qzvGprNp2vU/0.jpg" 
          alt="Safety-critical robotic force interaction">
   </a>
 </center>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Dynamic obstacle avoidance of robot <br>
-
 <center>
   <a href="https://youtu.be/-FhZMYd8RfA">
-    <img style="width: 40%; height: auto; object-fit: cover; border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08);" 
+    <img style="width: 50%; height: auto; object-fit: cover; border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08);" 
          src="https://img.youtube.com/vi/-FhZMYd8RfA/0.jpg" 
          alt="Dynamic obstacle avoidance of robot">
   </a>
 </center>
-
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Safe motion control of underactuated suspension robot <br>
 
 <center>
   <a href="https://www.youtube.com/watch?v=rwwKk4ljFWI">
-    <img style="width: 40%; height: auto; object-fit: cover; border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08);" 
+    <img style="width: 50%; height: auto; object-fit: cover; border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08);" 
          src="https://img.youtube.com/vi/rwwKk4ljFWI/0.jpg" 
          alt="Safe motion control of underactuated suspension robot">
   </a>
 </center>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Safe motion planning of underactuated suspension robot <br>
-
 <center>
   <a href="https://www.youtube.com/watch?v=8Fh2PYZnidg">
-    <img style="width: 40%; height: auto; object-fit: cover; border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08);" 
+    <img style="width: 50%; height: auto; object-fit: cover; border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08);" 
          src="https://img.youtube.com/vi/8Fh2PYZnidg/0.jpg" 
          alt="Safe motion planning of underactuated suspension robot">
   </a>
@@ -82,10 +78,9 @@ redirect_from:
 ## ✧	&nbsp;&nbsp;Cases for industrial applications
 ###  *Case 1: Emerging Autonomous System Technologies for Port Crane Automation*
 
-
 <center>
   <a href="https://www.youtube.com/watch?v=zftOlgDQsJI">
-    <img style="width: 40%; height: auto; object-fit: cover; border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08);" 
+    <img style="width: 50%; height: auto; object-fit: cover; border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08);" 
          src="https://img.youtube.com/vi/zftOlgDQsJI/0.jpg" 
          alt="Safe motion video thumbnail">
   </a>
