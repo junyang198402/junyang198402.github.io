@@ -77,7 +77,7 @@ redirect_from:
 
 <center>
   <a href="https://www.youtube.com/watch?v=zftOlgDQsJI">
-    <img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08);" 
+    <img style="width: 40%; height: auto; object-fit: cover; border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08);" 
          src="https://img.youtube.com/vi/zftOlgDQsJI/0.jpg" 
          alt="Safe motion video thumbnail">
   </a>
