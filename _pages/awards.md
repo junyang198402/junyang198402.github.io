@@ -25,7 +25,8 @@ collection: awards
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;IEEJ SAMCON Conference Outstanding Paper Award, IEEJ / Japan, 2024.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;IEEE ICAC Conference Best Paper Award, IEEE / US, 2023.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;IEEE PRECEDE Conference Best Paper Award, IEEE / US, 2023.<br>
-● &nbsp;&nbsp;Winner of Gold Medal of International Exhibition of Inventions of Geneva, Switzerland, 2022.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Winner of Gold Medal of International Exhibition of Inventions of Geneva,<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Switzerland, 2022.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;IEEE PRECEDE Conference Best Paper Award, IEEE / US, 2021.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;IEEJ SAMCON Conference Outstanding Paper Award, IEEJ / Japan, 2020.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;IET Premium Award for Best Paper in IET Control Theory and Applications, IET / UK, 2017.<br>
