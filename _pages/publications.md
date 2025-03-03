@@ -9,61 +9,93 @@ redirect_from:
 # Publications
 ## ✧ *Journal Publications*
 
-1.  M. Cao, S. Li, J. Yang, and K. Zhang, “Mismatched disturbance compensation enhanced robust H-infinity control for the DC-DC boost converter feeding constant power loads,” IEEE Transactions on Energy Conversion, vol. 38, no. 2, pp. 1300–1310, 2023.</br>  
-2.	H. Chang, S. Lu, S. Zheng, B. Song, and J. Yang, “Integration of predictive control and intercon- nected structure for autotuning velocity controller,” IEEE/ASME Transactions on Mechatronics, 2023. doI: 10.1109/TMECH.2023.3262558.</br> 
-3.	Z. Li, W.-H. Chen, and J. Yang, “Concurrent active learning in autonomous airborne source search: Dual control for exploration and exploitation,” IEEE Transactions on Automatic Control, vol. 68, no. 5, pp. 3123–3130, 2023.
+1.	J. Liu, J. Yang, J. Mao, T. Zhu, Q. Xie, Y. Li, and S. Li, “Flexible active safety motion control for robotic obstacle avoidance: A cbf-guided mpc approach,” IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2025.3534519.<br>
 
-4.	Z. Li, W.-H. Chen, J. Yang, and Y. Yan, “AID-RL: Active information-directed reinforcement learning for autonomous source seeking and estimation,” Neurocomputing, vol. 544, pp. 126281, 2023.
+1.	S. Li, J. Yang, M. Iwasaki, and W. H. Chen, “Hierarchical disturbance/uncertainty estimation and attenuation for integrated modeling and motion control: overview and perspectives,” IEEE/ASME Transactions on Mechatronics.
+   
+1.	Y. Li, J. Yang, J. Liu, X. Wang, and S. Li, “On stability of model predictive control with finite-control-set constraints and disturbances,” Automatica, 171, 111982.
 
-5.	Z. Li, W.-H. Chen, J. Yang, and Y. Yan, “Dual control of exploration and exploitation for self- optimisation control in uncertain environments,” arXiv preprint arXiv: 2301.11984, 2023.
+1.	J. Zhang, J. Su, J. Yang, J. Hong, and Y. Cao, “PortLaneNet: enhancing port RTG lane detection with explicit feature learning network,” IEEE Transactions on Industrial Informatics.
 
-6.	J. Liu, J. Yang, S. Li, and X. Wang, “Single-loop robust model predictive speed regulation of PMSM based on exogenous signal preview,” IEEE Transactions on Industrial Electronics, 2023. doI: 10.1109/TIE.2023.3239938.
+1.	X. Wang, J. Yang, C. Liu, Y. Yan and S. Li, “Safety-critical disturbance rejection control of nonlinear systems with unmatched disturbances,” IEEE Transactions on Automatic Control.
 
-7.	L. Shao, J. Yang, S. Li, and Y. Yi, “A new alternating predictive observer approach for higher bandwidth control of dual-rate dynamic systems,” IEEE Transactions on Circuits and Systems II: Express Briefs, 2023. doI: 10.1109/TCSII.2023.3235934.
+1.	J. Liu, J. Yang, Y. Yan, Y. Tan, X. Wang and S. Li, “On recursive feasibility and stability of constrained output regulation,” IEEE Transactions on Automatic Control.
 
-8.	J. Sun, J. Yang, S. Li, and Z. Zeng, “Predictor-based global sampled-data output feedback sta- bilization for nonlinear uncertain systems subject to delayed output,” IEEE Transactions on Automatic Control, vol. 68, no. 3, pp. 1839–1846, 2023.
+1.	Z. Tian, X. Wang, J. Yang, S. Li, D. Niu and Q. Li, “Safety-critical disturbance rejection control of overhead crane systems: methods and experimental validation,” IEEE Transactions on Control Systems Technology.
 
-9.	Y. Tan, J. Yang, W.-H. Chen, and S. Li, “A distributionally robust optimization approach to two- sided chance-constrained stochastic model predictive control with unknown noise distribution,” IEEE Transactions on Automatic Control, 2023. doI: 10.1109/TAC.2023.3273775.
+1.  C. Zhou,  X. Wang, J. Yang, H. Yu and S. Li, “Robust safe motion control for compliantly actuated robots via disturbance observers,” IEEE/ASME Transactions on Mechatronics.
 
-10.	F. Wang, J. Liang, J. Lam, J. Yang, and C. Zhao, “Robust filtering for 2-D systems with uncertain- variance noises and weighted try-once-discard protocols,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 53, no. 5, pp. 2914–2924, 2023.
+1.	Z. Yu, X. Zheng, J. Yang and J. Su, “Improved YOLOX-DeepSORT for multi-target detection and tracking of automated port RTG,” IEEE Open Journal of the Industrial Electronics Society.
 
-11.	T. Yang, C. Cui, C. Zhang, and J. Yang, “Robustness enhancement of DRL controller for DC–DC buck convertersfusing ESO,” Journal of Control and Decision, 2023. doI: 10.1080/23307706. 2023.2201587.
+1.	  X. Wang, Y. Jiang, J. Yang, Y. Yan and S. Li, “Prescribed performance motion control: A control barrier function approach,” IEEE Transactions on Industrial Electronics.
 
-12.	L. Zhang, J. Yang, and X. Yu, “Disturbance rejection extremum seeking: A sliding mode control approach,” IEEE Control Systems Letters, vol. 7, pp. 1447–1452, 2023.
+1.	L. Shao, Z. Guo, J. Yang, and S. Li, “Vision-based quadrotor rapid landing control with an uncooperative platform: an alternating predictive observer approach,” IEEE Transactions on Intelligent Vehicles.
 
-13.	C. Zhou, C. Dai, J. Yang, and S. Li, “Disturbance observer-based tracking control with prescribed performance specifications for a class of nonlinear systems subject to mismatched disturbances,” Asian Journal of Control, vol. 25, no. 1, pp. 359–370, 2023.
+1.	Z. Li, W. H. Chen, J. Yang and Y. Yan, “Dual control of exploration and exploitation for auto-optimization control with active learning,” IEEE Transactions on Automation Science and Engineering.
 
-14.	X. Dong, C. Zhang, T. Yang, and J. Yang, “Nonsmooth dynamic tracking control for nonlinear systems with mismatched disturbances: Algorithm and practice,” IEEE Transactions on Industrial Electronics, vol. 70, no. 4, pp. 4048–4057, 2022.
+1.	Y. Tan, J. Yang, W. H. Chen, and S. Li, “Multistep dual control for exploration and exploitation in autonomous search with convergence guarantee,” IEEE Transactions on Industrial Informatics.
 
-15.	X. Liu, J. Yang, and P. Qiao, “Gain function-based visual tracking control for inertial stabilized platform with output constraints and disturbances,” Electronics, vol. 11, no. 7, pp. 1137, 2022.
+1.	X. Zhang, N. Sun, G. Liu, T. Yang and J. Yang, “Disturbance preview-based output feedback predictive control for pneumatic artificial muscle robot systems with hysteresis compensation,” IEEE/ASME Transactions on Mechatronics.
 
-16.	S. Shi, X. Wang, S. Li, and J. Yang, “Prescribed-time second-order sliding mode controller design subject to mismatched term,” IEEE Transactions on Circuits and Systems II: Express Briefs, 2022. doI: 10.1109/TCSII.2022.3227053.
+1.	C. Zhou, J. Yang, S. Li and W. H. Chen, “Temporal Logic Disturbance Rejection Control of Nonlinear Systems Using Control Barrier Functions,” IEEE Transactions on Cybernetics.
+   
+1.  M. Cao, S. Li, J. Yang, and K. Zhang, “Mismatched disturbance compensation enhanced robust H-infinity control for the DC-DC boost converter feeding constant power loads,” IEEE Transactions on Energy Conversion, vol. 38, no. 2, pp. 1300–1310, 2023.</br>
+   
+1.	H. Chang, S. Lu, S. Zheng, B. Song, and J. Yang, “Integration of predictive control and intercon- nected structure for autotuning velocity controller,” IEEE/ASME Transactions on Mechatronics, 2023. doI: 10.1109/TMECH.2023.3262558.</br>
+  
+1.	Z. Li, W.-H. Chen, and J. Yang, “Concurrent active learning in autonomous airborne source search: Dual control for exploration and exploitation,” IEEE Transactions on Automatic Control, vol. 68, no. 5, pp. 3123–3130, 2023.
 
-17.	J. Sun, X. Liu, J. Yang, Z. Zeng, and S. Li, “Predictor-based extended state observer for dis- turbance rejection control of multirate systems with measurement delay,” IEEE Transactions on Industrial Electronics, vol. 70, no. 3, pp. 3003–3012, 2022.
+1.	Z. Li, W.-H. Chen, J. Yang, and Y. Yan, “AID-RL: Active information-directed reinforcement learning for autonomous source seeking and estimation,” Neurocomputing, vol. 544, pp. 126281, 2023.
 
-18.	J. Sun, J. Yang, and Z. Zeng, “Predictor-based periodic event-triggered control for nonlinear uncertain systems with input delay,” Automatica, vol. 136, pp. 110055, 2022.
+1.	Z. Li, W.-H. Chen, J. Yang, and Y. Yan, “Dual control of exploration and exploitation for self- optimisation control in uncertain environments,” arXiv preprint arXiv: 2301.11984, 2023.
 
-19.	J. Sun, J. Yang, Z. Zeng, and H. Wang, “Sampled-data output feedback control for nonlinear uncertain systems using predictor-based continuous-discrete observer,” IEEE Transactions on Neural Networks and Learning Systems, 2022. doI: 10.1109/TNNLS.2022.3157649.
+1.	J. Liu, J. Yang, S. Li, and X. Wang, “Single-loop robust model predictive speed regulation of PMSM based on exogenous signal preview,” IEEE Transactions on Industrial Electronics, 2023. doI: 10.1109/TIE.2023.3239938.
 
-20.	J. Wang, J. Rong, and J. Yang, “Adaptive fixed-time position precision control for magnetic levitation systems,” IEEE Transactions on Automation Science and Engineering, vol. 20, no. 1, pp. 458–469, 2022.
+1.	L. Shao, J. Yang, S. Li, and Y. Yi, “A new alternating predictive observer approach for higher bandwidth control of dual-rate dynamic systems,” IEEE Transactions on Circuits and Systems II: Express Briefs, 2023. doI: 10.1109/TCSII.2023.3235934.
 
-21.	J. Yang, X. Liu, J. Sun, and S. Li, “Sampled-data robust visual servoing control for moving target tracking of an inertially stabilized platform with a measurement delay,” Automatica, vol. 137, pp. 110105, 2022.
+1.	J. Sun, J. Yang, S. Li, and Z. Zeng, “Predictor-based global sampled-data output feedback sta- bilization for nonlinear uncertain systems subject to delayed output,” IEEE Transactions on Automatic Control, vol. 68, no. 3, pp. 1839–1846, 2023.
 
-22.	L. Zhang, Z. Chen, X. Yu, J. Yang, and S. Li, “Sliding-mode-based robust output regulation and its application in PMSM servo systems,” IEEE Transactions on Industrial Electronics, vol. 70, no. 2, pp. 1852–1860, 2022.
+1.	Y. Tan, J. Yang, W.-H. Chen, and S. Li, “A distributionally robust optimization approach to two- sided chance-constrained stochastic model predictive control with unknown noise distribution,” IEEE Transactions on Automatic Control, 2023. doI: 10.1109/TAC.2023.3273775.
 
-23.	L. Zhang and J. Yang, “Continuous nonsingular terminal sliding mode control for nonlinear sys- tems subject to mismatched terms,” Asian Journal of Control, vol. 24, no. 2, pp. 885–894, 2022.
+1.	F. Wang, J. Liang, J. Lam, J. Yang, and C. Zhao, “Robust filtering for 2-D systems with uncertain- variance noises and weighted try-once-discard protocols,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 53, no. 5, pp. 2914–2924, 2023.
 
-24.	C. Zhou, J. Yang, S. Li, and W.-H. Chen, “Robust temporal logic motion control via disturbance observers,” IEEE Transactions on Industrial Electronics, vol. 70, no. 8, pp. 8286–8295, 2022.
+1.	T. Yang, C. Cui, C. Zhang, and J. Yang, “Robustness enhancement of DRL controller for DC–DC buck convertersfusing ESO,” Journal of Control and Decision, 2023. doI: 10.1080/23307706. 2023.2201587.
 
-25.	K. Łakomy, R. Madonski, B. Dai, J. Yang, P. Kicki, M. Ansari, and S. Li, “Active disturbance rejection control design with suppression of sensor noise effects in application to DC–DC buck power converter,” IEEE Transactions on Industrial Electronics, vol. 69, no. 1, pp. 816–824, 2021.
+1.	L. Zhang, J. Yang, and X. Yu, “Disturbance rejection extremum seeking: A sliding mode control approach,” IEEE Control Systems Letters, vol. 7, pp. 1447–1452, 2023.
 
-26.	R. Li, Q. Zhu, J. Yang, P. Narayan, and X. Yue, “Disturbance-observer-based u-control (DOBUC) for nonlinear dynamic systems,” Entropy, vol. 23, no. 12, pp. 1625, 2021.
+1.	C. Zhou, C. Dai, J. Yang, and S. Li, “Disturbance observer-based tracking control with prescribed performance specifications for a class of nonlinear systems subject to mismatched disturbances,” Asian Journal of Control, vol. 25, no. 1, pp. 359–370, 2023.
 
-27.	T. Li, J. Yang, and S. Li, “Event-triggered state feedback control for p-normal uncertain nonlinear systems,” International Journal of Systems Science, vol. 52, no. 7, pp. 1284–1296, 2021.
+1.	X. Dong, C. Zhang, T. Yang, and J. Yang, “Nonsmooth dynamic tracking control for nonlinear systems with mismatched disturbances: Algorithm and practice,” IEEE Transactions on Industrial Electronics, vol. 70, no. 4, pp. 4048–4057, 2022.
 
-28.	X. Liu, J. Mao, J. Yang, S. Li, and K. Yang, “Robust predictive visual servoing control for an inertially stabilized platform with uncertain kinematics,” ISA transactions, vol. 114, pp. 347–358, 2021.
+1.	X. Liu, J. Yang, and P. Qiao, “Gain function-based visual tracking control for inertial stabilized platform with output constraints and disturbances,” Electronics, vol. 11, no. 7, pp. 1137, 2022.
 
-29.	R. Madonski, K. Łakomy, M. Stankovic, S. Shao, J. Yang, and S. Li, “Robust converter-fed motor control based on active rejection of multiple disturbances,” Control Engineering Practice, vol. 107, pp. 104696, 2021.
+1.	S. Shi, X. Wang, S. Li, and J. Yang, “Prescribed-time second-order sliding mode controller design subject to mismatched term,” IEEE Transactions on Circuits and Systems II: Express Briefs, 2022. doI: 10.1109/TCSII.2022.3227053.
+
+1.	J. Sun, X. Liu, J. Yang, Z. Zeng, and S. Li, “Predictor-based extended state observer for dis- turbance rejection control of multirate systems with measurement delay,” IEEE Transactions on Industrial Electronics, vol. 70, no. 3, pp. 3003–3012, 2022.
+
+1.	J. Sun, J. Yang, and Z. Zeng, “Predictor-based periodic event-triggered control for nonlinear uncertain systems with input delay,” Automatica, vol. 136, pp. 110055, 2022.
+
+1.	J. Sun, J. Yang, Z. Zeng, and H. Wang, “Sampled-data output feedback control for nonlinear uncertain systems using predictor-based continuous-discrete observer,” IEEE Transactions on Neural Networks and Learning Systems, 2022. doI: 10.1109/TNNLS.2022.3157649.
+
+1.	J. Wang, J. Rong, and J. Yang, “Adaptive fixed-time position precision control for magnetic levitation systems,” IEEE Transactions on Automation Science and Engineering, vol. 20, no. 1, pp. 458–469, 2022.
+
+1.	J. Yang, X. Liu, J. Sun, and S. Li, “Sampled-data robust visual servoing control for moving target tracking of an inertially stabilized platform with a measurement delay,” Automatica, vol. 137, pp. 110105, 2022.
+
+1.	L. Zhang, Z. Chen, X. Yu, J. Yang, and S. Li, “Sliding-mode-based robust output regulation and its application in PMSM servo systems,” IEEE Transactions on Industrial Electronics, vol. 70, no. 2, pp. 1852–1860, 2022.
+
+1.	L. Zhang and J. Yang, “Continuous nonsingular terminal sliding mode control for nonlinear sys- tems subject to mismatched terms,” Asian Journal of Control, vol. 24, no. 2, pp. 885–894, 2022.
+
+1.	C. Zhou, J. Yang, S. Li, and W.-H. Chen, “Robust temporal logic motion control via disturbance observers,” IEEE Transactions on Industrial Electronics, vol. 70, no. 8, pp. 8286–8295, 2022.
+
+1.	K. Łakomy, R. Madonski, B. Dai, J. Yang, P. Kicki, M. Ansari, and S. Li, “Active disturbance rejection control design with suppression of sensor noise effects in application to DC–DC buck power converter,” IEEE Transactions on Industrial Electronics, vol. 69, no. 1, pp. 816–824, 2021.
+
+1.	R. Li, Q. Zhu, J. Yang, P. Narayan, and X. Yue, “Disturbance-observer-based u-control (DOBUC) for nonlinear dynamic systems,” Entropy, vol. 23, no. 12, pp. 1625, 2021.
+
+1.	T. Li, J. Yang, and S. Li, “Event-triggered state feedback control for p-normal uncertain nonlinear systems,” International Journal of Systems Science, vol. 52, no. 7, pp. 1284–1296, 2021.
+
+25.	X. Liu, J. Mao, J. Yang, S. Li, and K. Yang, “Robust predictive visual servoing control for an inertially stabilized platform with uncertain kinematics,” ISA transactions, vol. 114, pp. 347–358, 2021.
+
+1.	R. Madonski, K. Łakomy, M. Stankovic, S. Shao, J. Yang, and S. Li, “Robust converter-fed motor control based on active rejection of multiple disturbances,” Control Engineering Practice, vol. 107, pp. 104696, 2021.
 
 30.	R. Madonski, K. Łakomy, and J. Yang, “Simplifying ADRC design with error-based framework: Case study of a DC–DC buck power converter,” Control Theory and Technology, vol. 19, pp. 94– 112, 2021.
 
