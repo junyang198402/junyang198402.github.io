@@ -9,50 +9,53 @@ redirect_from:
 
 # Research
 
+## ✧ &nbsp;&nbsp;Intelligent automation and robotics
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Vision-based agile control<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Interactive robot control <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Safety-critical control<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Active learning and inference<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Formal verification and control<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Motion planning and path following<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Sensor fusion and state estimation<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Computer vision<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;SLAM<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Industrial robots, UAVs, automated port cranes, autonomous vehicles<br>
 
-## ✧	Intelligent automation and robotics
-  - Vision-based agile control<br>
-  - Interactive robot control control<br>
-  - Safety-critical control<br>
-  - Active learning and inference<br>
-  - Formal verification and control<br>
-  - Motion planning and path following<br>
-  - Sensor fusion and state estimation<br>
-  - Computer vision<br>
-  - SLAM<br>
-  - Industrial robots, UAVs, automated port cranes, autonomous vehicles<br>
+## ✧	&nbsp;&nbsp;Mechatronic systems and control
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Modelling, learning and system identification<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Energy efficiency optimization<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Disturbance observer<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Motion control<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;High bandwidth control<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Vibration suppression<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Nonlinear control<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Model predictive control<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Transport electrification<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Power electronics, machines, and drives<br>
 
-## ✧	Mechatronic systems and control
-  - Modelling, learning and system identification<br>
-  - Energy efficiency optimization<br>
-  - Disturbance observer<br>
-  - Motion control<br>
-  - High bandwidth control<br>
-  - Vibration suppression<br>
-  - Nonlinear control<br>
-  - Model predictive control<br>
-  - Transport electrification<br>
-  - Power electronics, machines, and drives<br>
+## ✧  &nbsp;&nbsp;Videos of recent works
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;RAID-AgiVS: A Bio-Inspired RPC Framework for Agile Visual Servo <br>
 
-## ✧  Videos of recent works
-  - Safety-critical robotic force interaction <br>
+[![RAID-AgiVS: A Bio-Inspired RPC Framework for Agile Visual Servo](https://img.youtube.com/vi/ZgJ_cuIstP8/0.jpg)](https://youtu.be/ZgJ_cuIstP8)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Safety-critical robotic force interaction <br>
 
 [![Safety-critical robotic force interaction](https://img.youtube.com/vi/1Ag3sTgQKwM/0.jpg)](https://youtu.be/1Ag3sTgQKwM)
 
-  - Dynamic obstacle avoidance of robot <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Dynamic obstacle avoidance of robot <br>
 
 [![Safety-critical robotic force interaction](https://img.youtube.com/vi/kNY5oEyxj-4/0.jpg)](https://youtu.be/kNY5oEyxj-4)
 
-  - Safe motion control of underactuated suspension robot <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Safe motion control of underactuated suspension robot <br>
 
 [![Safe motion control of underactuated suspension robot](https://img.youtube.com/vi/rwwKk4ljFWI/0.jpg)](https://www.youtube.com/watch?v=rwwKk4ljFWI)
 
-  - Safe motion planning of underactuated suspension robot <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Safe motion planning of underactuated suspension robot <br>
 
 [![Safe motion planning of underactuated suspension robot](https://img.youtube.com/vi/8Fh2PYZnidg/0.jpg)](https://www.youtube.com/watch?v=8Fh2PYZnidg)
 
 
-## ✧	Cases for industrial applications
+## ✧	&nbsp;&nbsp;Cases for industrial applications
 ###  *Case 1: Emerging Autonomous System Technologies for Port Crane Automation*
 
 
