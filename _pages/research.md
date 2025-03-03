@@ -40,35 +40,43 @@ redirect_from:
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Safety-critical robotic force interaction <br>
 
-<p align="center">
+<center>
   <a href="https://youtu.be/qzvGprNp2vU">
-    <img src="https://img.youtube.com/vi/qzvGprNp2vU/0.jpg" alt="Safety-critical robotic force interaction">
+    <img style="width: 40%; height: auto; object-fit: cover; border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08);" 
+         src="https://img.youtube.com/vi/qzvGprNp2vU/0.jpg" 
+         alt="Safety-critical robotic force interaction">
   </a>
-</p>
+</center>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Dynamic obstacle avoidance of robot <br>
 
-<p align="center">
+<center>
   <a href="https://youtu.be/-FhZMYd8RfA">
-    <img src="https://img.youtube.com/vi/-FhZMYd8RfA/0.jpg" alt="Dynamic obstacle avoidance of robot">
+    <img style="width: 40%; height: auto; object-fit: cover; border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08);" 
+         src="https://img.youtube.com/vi/-FhZMYd8RfA/0.jpg" 
+         alt="Dynamic obstacle avoidance of robot">
   </a>
-</p>
+</center>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Safe motion control of underactuated suspension robot <br>
 
-<p align="center">
+<center>
   <a href="https://www.youtube.com/watch?v=rwwKk4ljFWI">
-    <img src="https://img.youtube.com/vi/rwwKk4ljFWI/0.jpg" alt="Safe motion control of underactuated suspension robot">
+    <img style="width: 40%; height: auto; object-fit: cover; border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08);" 
+         src="https://img.youtube.com/vi/rwwKk4ljFWI/0.jpg" 
+         alt="Safe motion control of underactuated suspension robot">
   </a>
-</p>
+</center>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Safe motion planning of underactuated suspension robot <br>
 
-<p align="center">
+<center>
   <a href="https://www.youtube.com/watch?v=8Fh2PYZnidg">
-    <img src="https://img.youtube.com/vi/8Fh2PYZnidg/0.jpg" alt="Safe motion planning of underactuated suspension robot">
+    <img style="width: 40%; height: auto; object-fit: cover; border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08);" 
+         src="https://img.youtube.com/vi/8Fh2PYZnidg/0.jpg" 
+         alt="Safe motion planning of underactuated suspension robot">
   </a>
-</p>
+</center>
 
 
 ## ✧	&nbsp;&nbsp;Cases for industrial applications
