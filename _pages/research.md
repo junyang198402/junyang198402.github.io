@@ -45,7 +45,7 @@ redirect_from:
          src="https://img.youtube.com/vi/qzvGprNp2vU/0.jpg" 
          alt="Safety-critical robotic force interaction">
   </a>
-</center>
+</center><br>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Dynamic obstacle avoidance of robot <br>
 <center>
@@ -54,7 +54,8 @@ redirect_from:
          src="https://img.youtube.com/vi/-FhZMYd8RfA/0.jpg" 
          alt="Dynamic obstacle avoidance of robot">
   </a>
-</center>
+</center><br>
+
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Safe motion control of underactuated suspension robot <br>
 
 <center>
@@ -63,7 +64,7 @@ redirect_from:
          src="https://img.youtube.com/vi/rwwKk4ljFWI/0.jpg" 
          alt="Safe motion control of underactuated suspension robot">
   </a>
-</center>
+</center><br>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Safe motion planning of underactuated suspension robot <br>
 <center>
