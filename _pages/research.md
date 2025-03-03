@@ -34,9 +34,9 @@ redirect_from:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Power electronics, machines, and drives<br>
 
 ## ✧  &nbsp;&nbsp;Videos of recent works
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;RAID-AgiVS: A Bio-Inspired RPC Framework for Agile Visual Servo <br>
+<!--  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;RAID-AgiVS: A Bio-Inspired RPC Framework for Agile Visual Servo <br>-->
 
-[![RAID-AgiVS: A Bio-Inspired RPC Framework for Agile Visual Servo](https://img.youtube.com/vi/ZgJ_cuIstP8/0.jpg)](https://youtu.be/ZgJ_cuIstP8)
+<!--[![RAID-AgiVS: A Bio-Inspired RPC Framework for Agile Visual Servo](https://img.youtube.com/vi/ZgJ_cuIstP8/0.jpg)](https://youtu.be/ZgJ_cuIstP8)-->
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Safety-critical robotic force interaction <br>
 
