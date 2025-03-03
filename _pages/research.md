@@ -75,11 +75,13 @@ redirect_from:
 ###  *Case 1: Emerging Autonomous System Technologies for Port Crane Automation*
 
 
-<p align="center">
+<center>
   <a href="https://www.youtube.com/watch?v=zftOlgDQsJI">
-    <img src="https://img.youtube.com/vi/zftOlgDQsJI/0.jpg" alt="Safe motion video thumbnail">
+    <img style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12), 0 2px 10px 0 rgba(34,36,38,.08);" 
+         src="https://img.youtube.com/vi/zftOlgDQsJI/0.jpg" 
+         alt="Safe motion video thumbnail">
   </a>
-</p>
+</center>
 
 In recent years, Jun has focused heavily on developing emerging autonomous system technologies towards next generation of autonomous systems with higher levels of cognition, agility, safety and resilience. These include many perception, learning and control approaches like visual servo control (e.g., IBVS and PBVS), motion planning, computer vision (e.g., multi-targets detection and tracking), and SLAM. More importantly, many emerging learning and control approaches have been investigated, which include alternating predictive learning, temporal logic control, safety-critical control, active learning and inference, dual control for exploitation and exploration, formal verification and control, etc. The approaches have been extensively investigated or applied to a wide range of automation and robotic systems, e.g., autonomous crane systems in port terminals, interactive robotic manipulators, UAV landing on moving targets, etc. 
 
