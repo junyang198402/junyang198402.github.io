@@ -40,7 +40,7 @@ redirect_from:
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Safety-critical robotic force interaction <br>
 
-[![Safety-critical robotic force interaction](https://img.youtube.com/vi/1Ag3sTgQKwM/0.jpg)](https://youtu.be/1Ag3sTgQKwM)
+[![Safety-critical robotic force interaction](https://img.youtube.com/vi/qzvGprNp2vU/0.jpg)](https://youtu.be/qzvGprNp2vU)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Dynamic obstacle avoidance of robot <br>
 
