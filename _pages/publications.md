@@ -6,9 +6,9 @@ redirect_from:
   - /md/
 ---
 
-# Publications
-## ✧ *Journal Publications*
 
+# Publications
+## ✧ &nbsp;&nbsp;*Recent Publications*
 1.	J. Liu, J. Yang, J. Mao, T. Zhu, Q. Xie, Y. Li, and S. Li, “Flexible active safety motion control for robotic obstacle avoidance: A cbf-guided mpc approach,” IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2025.3534519.<br>
 
 1.	S. Li, J. Yang, M. Iwasaki, and W. H. Chen, “Hierarchical disturbance/uncertainty estimation and attenuation for integrated modeling and motion control: overview and perspectives,” IEEE/ASME Transactions on Mechatronics.
@@ -38,8 +38,11 @@ redirect_from:
 1.	X. Zhang, N. Sun, G. Liu, T. Yang and J. Yang, “Disturbance preview-based output feedback predictive control for pneumatic artificial muscle robot systems with hysteresis compensation,” IEEE/ASME Transactions on Mechatronics.
 
 1.	C. Zhou, J. Yang, S. Li and W. H. Chen, “Temporal Logic Disturbance Rejection Control of Nonlinear Systems Using Control Barrier Functions,” IEEE Transactions on Cybernetics.
-   
-1.  M. Cao, S. Li, J. Yang, and K. Zhang, “Mismatched disturbance compensation enhanced robust H-infinity control for the DC-DC boost converter feeding constant power loads,” IEEE Transactions on Energy Conversion, vol. 38, no. 2, pp. 1300–1310, 2023.</br>
+
+## ✧ &nbsp;&nbsp;*Journal Publications*
+
+
+16.  M. Cao, S. Li, J. Yang, and K. Zhang, “Mismatched disturbance compensation enhanced robust H-infinity control for the DC-DC boost converter feeding constant power loads,” IEEE Transactions on Energy Conversion, vol. 38, no. 2, pp. 1300–1310, 2023.</br>
    
 1.	H. Chang, S. Lu, S. Zheng, B. Song, and J. Yang, “Integration of predictive control and intercon- nected structure for autotuning velocity controller,” IEEE/ASME Transactions on Mechatronics, 2023. doI: 10.1109/TMECH.2023.3262558.</br>
   
@@ -488,12 +491,12 @@ IEEE Transactions on Aerospace and Electronic Systems, vol. 49, no. 1, pp. 558�
 
 222.	J. Yang, A. Zolotas, W.-H. Chen, K. Michail, and S. Li, “Disturbance observer based control for nonlinear MAGLEV suspension system,” in 2010 Conference on Control and Fault-Tolerant Systems (SysTol), IEEE, 2010, pp. 281–286.
 
-## ✧ *Book Publications*
+## ✧ &nbsp;&nbsp;*Book Publications*
 
-223.	C. Zhang and J. Yang, Nonrecursive Control Design for Nonlinear Systems: Theory and Applica- tions. CRC Press, 2023.
+238.	C. Zhang and J. Yang, Nonrecursive Control Design for Nonlinear Systems: Theory and Applica- tions. CRC Press, 2023.
 
-224.	S. Li, X. Wang, S. Ding, H. Du, J. Yang, and X. Yu, Sliding-Mode Control Theory and Applications (Chinese). Science Press (China), 2022.
+1.	S. Li, X. Wang, S. Ding, H. Du, J. Yang, and X. Yu, Sliding-Mode Control Theory and Applications (Chinese). Science Press (China), 2022.
 
-225.	X. Chen, M. Wang, and J. Yang, Process Control System (Chinese). Science Press (China), 2014.
+1.	X. Chen, M. Wang, and J. Yang, Process Control System (Chinese). Science Press (China), 2014.
 
-226.	S. Li, J. Yang, W.-H. Chen, and X. Chen, Disturbance Observer-Based Control: Methods and Applications. CRC press, 2014.
+1.	S. Li, J. Yang, W.-H. Chen, and X. Chen, Disturbance Observer-Based Control: Methods and Applications. CRC press, 2014.
