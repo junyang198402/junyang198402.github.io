@@ -26,7 +26,6 @@ redirect_from:
 1.  C. Zhou,  X. Wang, J. Yang, H. Yu and S. Li, “Robust safe motion control for compliantly actuated robots via disturbance observers,” IEEE/ASME Transactions on Mechatronics，vol. 29, no. 4, pp. 2794-2802, 2024.
 
 1.	Z. Yu, X. Zheng, J. Yang and J. Su, “Improved YOLOX-DeepSORT for multi-target detection and tracking of automated port RTG,” IEEE Open Journal of the Industrial Electronics Society, vol. 5, pp. 317-325, 2024.
-.
 
 1.	X. Wang, Y. Jiang, J. Yang, Y. Yan and S. Li, “Prescribed performance motion control: a control barrier function approach,” IEEE Transactions on Industrial Electronics, vol. 71, no.12, pp. 16377-16387, 2024.
 
