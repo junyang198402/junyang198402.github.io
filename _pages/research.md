@@ -40,19 +40,35 @@ redirect_from:
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Safety-critical robotic force interaction <br>
 
-[![Safety-critical robotic force interaction](https://img.youtube.com/vi/qzvGprNp2vU/0.jpg)](https://youtu.be/qzvGprNp2vU)
+<p align="center">
+  <a href="https://youtu.be/qzvGprNp2vU">
+    <img src="https://img.youtube.com/vi/qzvGprNp2vU/0.jpg" alt="Safety-critical robotic force interaction">
+  </a>
+</p>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Dynamic obstacle avoidance of robot <br>
 
-[![Dynamic obstacle avoidance of robot](https://img.youtube.com/vi/-FhZMYd8RfA/0.jpg)](https://youtu.be/-FhZMYd8RfA)
+<p align="center">
+  <a href="https://youtu.be/-FhZMYd8RfA">
+    <img src="https://img.youtube.com/vi/-FhZMYd8RfA/0.jpg" alt="Dynamic obstacle avoidance of robot">
+  </a>
+</p>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Safe motion control of underactuated suspension robot <br>
 
-[![Safe motion control of underactuated suspension robot](https://img.youtube.com/vi/rwwKk4ljFWI/0.jpg)](https://www.youtube.com/watch?v=rwwKk4ljFWI)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=rwwKk4ljFWI">
+    <img src="https://img.youtube.com/vi/rwwKk4ljFWI/0.jpg" alt="Safe motion control of underactuated suspension robot">
+  </a>
+</p>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;● &nbsp;&nbsp;Safe motion planning of underactuated suspension robot <br>
 
-[![Safe motion planning of underactuated suspension robot](https://img.youtube.com/vi/8Fh2PYZnidg/0.jpg)](https://www.youtube.com/watch?v=8Fh2PYZnidg)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=8Fh2PYZnidg">
+    <img src="https://img.youtube.com/vi/8Fh2PYZnidg/0.jpg" alt="Safe motion planning of underactuated suspension robot">
+  </a>
+</p>
 
 
 ## ✧	&nbsp;&nbsp;Cases for industrial applications
