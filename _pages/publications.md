@@ -9,42 +9,43 @@ redirect_from:
 
 # Publications
 ## ✧ &nbsp;&nbsp;*Recent Publications*
-1.	J. Liu, J. Yang, J. Mao, T. Zhu, Q. Xie, Y. Li, and S. Li, “Flexible active safety motion control for robotic obstacle avoidance: A cbf-guided mpc approach,” IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2025.3534519.<br>
+1.	J. Liu, J. Yang, J. Mao, T. Zhu, Q. Xie, Y. Li, and S. Li, “Flexible active safety motion control for robotic obstacle avoidance: A cbf-guided mpc approach,” IEEE Robotics and Automation Letters, doi:  10.1109/LRA.2025.3534519.
 
-1.	S. Li, J. Yang, M. Iwasaki, and W. H. Chen, “Hierarchical disturbance/uncertainty estimation and attenuation for integrated modeling and motion control: overview and perspectives,” IEEE/ASME Transactions on Mechatronics.
+1.	S. Li, J. Yang, M. Iwasaki, and W. H. Chen, “Hierarchical disturbance/uncertainty estimation and attenuation for integrated modeling and motion control: overview and perspectives,” IEEE/ASME Transactions on Mechatronics, doi: 10.1109/TMECH.2024.3515084.
    
-1.	Y. Li, J. Yang, J. Liu, X. Wang, and S. Li, “On stability of model predictive control with finite-control-set constraints and disturbances,” Automatica, 171, 111982.
+1.	Y. Li, J. Yang, J. Liu, X. Wang, and S. Li, “On stability of model predictive control with finite-control-set constraints and disturbances,” Automatica, 171, 111982, 2025.
 
-1.	J. Zhang, J. Su, J. Yang, J. Hong, and Y. Cao, “PortLaneNet: enhancing port RTG lane detection with explicit feature learning network,” IEEE Transactions on Industrial Informatics.
+1.	J. Zhang, J. Su, J. Yang, J. Hong, and Y. Cao, “PortLaneNet: enhancing port RTG lane detection with explicit feature learning network,” IEEE Transactions on Industrial Informatics, doi: 10.1109/TII.2024.3495756.
 
-1.	X. Wang, J. Yang, C. Liu, Y. Yan and S. Li, “Safety-critical disturbance rejection control of nonlinear systems with unmatched disturbances,” IEEE Transactions on Automatic Control.
+1.	X. Wang, J. Yang, C. Liu, Y. Yan and S. Li, “Safety-critical disturbance rejection control of nonlinear systems with unmatched disturbances,” IEEE Transactions on Automatic Control, doi: 10.1109/TAC.2024.3496572.
 
-1.	J. Liu, J. Yang, Y. Yan, Y. Tan, X. Wang and S. Li, “On recursive feasibility and stability of constrained output regulation,” IEEE Transactions on Automatic Control.
+1.	J. Liu, J. Yang, Y. Yan, Y. Tan, X. Wang and S. Li, “On recursive feasibility and stability of constrained output regulation,” IEEE Transactions on Automatic Control, vol. 70, no. 2, pp. 1289-1296, 2024.
 
-1.	Z. Tian, X. Wang, J. Yang, S. Li, D. Niu and Q. Li, “Safety-critical disturbance rejection control of overhead crane systems: methods and experimental validation,” IEEE Transactions on Control Systems Technology.
+1.	Z. Tian, X. Wang, J. Yang, S. Li, D. Niu and Q. Li, “Safety-critical disturbance rejection control of overhead crane systems: methods and experimental validation,” IEEE Transactions on Control Systems Technology，vol. 32, no. 6, pp. 2253-2266, 2024.
 
-1.  C. Zhou,  X. Wang, J. Yang, H. Yu and S. Li, “Robust safe motion control for compliantly actuated robots via disturbance observers,” IEEE/ASME Transactions on Mechatronics.
+1.  C. Zhou,  X. Wang, J. Yang, H. Yu and S. Li, “Robust safe motion control for compliantly actuated robots via disturbance observers,” IEEE/ASME Transactions on Mechatronics，vol. 29, no. 4, pp. 2794-2802, 2024.
 
-1.	Z. Yu, X. Zheng, J. Yang and J. Su, “Improved YOLOX-DeepSORT for multi-target detection and tracking of automated port RTG,” IEEE Open Journal of the Industrial Electronics Society.
+1.	Z. Yu, X. Zheng, J. Yang and J. Su, “Improved YOLOX-DeepSORT for multi-target detection and tracking of automated port RTG,” IEEE Open Journal of the Industrial Electronics Society, vol. 5, pp. 317-325, 2024.
+.
 
-1.	  X. Wang, Y. Jiang, J. Yang, Y. Yan and S. Li, “Prescribed performance motion control: A control barrier function approach,” IEEE Transactions on Industrial Electronics.
+1.	X. Wang, Y. Jiang, J. Yang, Y. Yan and S. Li, “Prescribed performance motion control: a control barrier function approach,” IEEE Transactions on Industrial Electronics, vol. 71, no.12, pp. 16377-16387, 2024.
 
-1.	L. Shao, Z. Guo, J. Yang, and S. Li, “Vision-based quadrotor rapid landing control with an uncooperative platform: an alternating predictive observer approach,” IEEE Transactions on Intelligent Vehicles.
+1.	L. Shao, Z. Guo, J. Yang, and S. Li, “Vision-based quadrotor rapid landing control with an uncooperative platform: an alternating predictive observer approach,” IEEE Transactions on Intelligent Vehicles, doi: 10.1109/TIV.2024.3382207.
 
-1.	Z. Li, W. H. Chen, J. Yang and Y. Yan, “Dual control of exploration and exploitation for auto-optimization control with active learning,” IEEE Transactions on Automation Science and Engineering.
+1.	Z. Li, W. H. Chen, J. Yang and Y. Yan, “Dual control of exploration and exploitation for auto-optimization control with active learning,” IEEE Transactions on Automation Science and Engineering, vol. 22, pp. 2145-2158, 2024.
 
-1.	Y. Tan, J. Yang, W. H. Chen, and S. Li, “Multistep dual control for exploration and exploitation in autonomous search with convergence guarantee,” IEEE Transactions on Industrial Informatics.
+1.	Y. Tan, J. Yang, W. H. Chen, and S. Li, “Multistep dual control for exploration and exploitation in autonomous search with convergence guarantee,” IEEE Transactions on Industrial Informatics, vol. 20, no.6, pp. 8207-8217, 2024.
 
-1.	X. Zhang, N. Sun, G. Liu, T. Yang and J. Yang, “Disturbance preview-based output feedback predictive control for pneumatic artificial muscle robot systems with hysteresis compensation,” IEEE/ASME Transactions on Mechatronics.
+1.	X. Zhang, N. Sun, G. Liu, T. Yang and J. Yang, “Disturbance preview-based output feedback predictive control for pneumatic artificial muscle robot systems with hysteresis compensation,” IEEE/ASME Transactions on Mechatronics, vol. 29, no.5, pp. 3936-3948, 2024.
 
-1.	C. Zhou, J. Yang, S. Li and W. H. Chen, “Temporal Logic Disturbance Rejection Control of Nonlinear Systems Using Control Barrier Functions,” IEEE Transactions on Cybernetics.
+1.	C. Zhou, J. Yang, S. Li and W. H. Chen, “Temporal Logic Disturbance Rejection Control of Nonlinear Systems Using Control Barrier Functions,” IEEE Transactions on Cybernetics, doi:10.1109/TCYB.2024.3515456.
 
 ## ✧ &nbsp;&nbsp;*Journal Publications*
 
 
-16.  M. Cao, S. Li, J. Yang, and K. Zhang, “Mismatched disturbance compensation enhanced robust H-infinity control for the DC-DC boost converter feeding constant power loads,” IEEE Transactions on Energy Conversion, vol. 38, no. 2, pp. 1300–1310, 2023.</br>
+16.  M. Cao, S. Li, J. Yang, and K. Zhang, “Mismatched disturbance compensation enhanced robust H-infinity control for the DC-DC boost converter feeding constant power loads,” IEEE Transactions on Energy Conversion, vol. 38, no. 2, pp. 1300–1310, 2023.
    
-1.	H. Chang, S. Lu, S. Zheng, B. Song, and J. Yang, “Integration of predictive control and intercon- nected structure for autotuning velocity controller,” IEEE/ASME Transactions on Mechatronics, 2023. doI: 10.1109/TMECH.2023.3262558.</br>
+1.	H. Chang, S. Lu, S. Zheng, B. Song, and J. Yang, “Integration of predictive control and intercon- nected structure for autotuning velocity controller,” IEEE/ASME Transactions on Mechatronics, 2023. doI: 10.1109/TMECH.2023.3262558.
   
 1.	Z. Li, W.-H. Chen, and J. Yang, “Concurrent active learning in autonomous airborne source search: Dual control for exploration and exploitation,” IEEE Transactions on Automatic Control, vol. 68, no. 5, pp. 3123–3130, 2023.
 
