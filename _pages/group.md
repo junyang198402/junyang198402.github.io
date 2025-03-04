@@ -15,7 +15,7 @@ redirect_from:
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/YufeiZuo.jpg" 
+        src = "../images/Hanjie.png" 
         width = "20%">
     <br>
     <div style = "
@@ -29,7 +29,7 @@ redirect_from:
 </center>
 
 <center>
-    <a href="mailto:Y.Zuo@lboro.ac.uk"><i class="fas fa-fw fa-envelope"></i> EMail</a>
+    <a href="mailto:j.han@lboro.ac.uk"><i class="fas fa-fw fa-envelope"></i> EMail</a>
 </center>
 
 ## ✧ &nbsp;&nbsp;*Current PhD Students*
