@@ -22,6 +22,8 @@ His general research interests lie in advanced modelling and analysis, learning 
 
 ## 📰 *News*
 
+  - <img src="https://img.shields.io/badge/Aug-2025-lightblue" alt = "Aug-2025" align="top"> Jun has been appointed as an Associate Editor for the IEEE Transactions on Automatic Control.
+  - <img src="https://img.shields.io/badge/Mar-2025-lightblue" alt = "Mar-2025" align="top"> Welcome Dr Jie Han to join the group as a full-time PDRA.
   - <img src="https://img.shields.io/badge/Mar-2024-lightblue" alt = "Mar-2024" align="top"> Our paper entitled ‘A formal finite-control-set control approach for PMSM drives under disturbances’ won Best Theory Paper Prize of the 25th IEEE International Conference on Industrial Technology held in Bristol, UK.
   - <img src="https://img.shields.io/badge/Mar-2024-lightblue" alt = "Mar-2024" align="top"> Our paper entitled ‘Composite finite-time control of electromechanical actuator with integrated friction compensation and uncertainties attenuation’ won Outstanding Paper Award of SAMCON 2024 held in Kyoto, Japan.
   - <img src="https://img.shields.io/badge/Oct-2023-lightblue" alt = "Oct-2023" align="top"> Welcome Mr Tianxiao Yang to join the group as a new PhD student.
